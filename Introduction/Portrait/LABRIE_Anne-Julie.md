@@ -11,4 +11,4 @@ Voici quelques affiches que j'aime beaucoup (cliquer sur les images pour voir la
 
 [![poster de l'émission crowded room](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Introduction/Portrait/Photos/ennard_poster.webp)](https://fnaf-sister-location.fandom.com/wiki/Five_Nights_at_Freddy%27s:_Sister_Location?file=Ennard-0.jpg#Gallery)
 
-[![poster de l'émission crowded room](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Introduction/Portrait/Photos/tracklist%20poster.jpg)]() 
+[![poster de l'émission crowded room](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Introduction/Portrait/Photos/tracklist%20poster.jpg)](https://radiopowerstrike.com/ateez-reveals-exciting-tracklist-for-the-world-ep-fin-will/) 

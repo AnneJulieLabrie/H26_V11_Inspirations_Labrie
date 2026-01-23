@@ -6,3 +6,4 @@
 J'aime beaucoup analyser et créé des affiches, pour différents contextes, que ce soit pour un évènement, une musique, un film, un jeu, etc. La création d'affiche regorge de possibilités pour s'exprimer, le choix des polices, des couleurs, des images... Je trouve ça très intéressant. Avec la création d'affiche on peut passer des messages, qu'ils soient implicitent ou explicitent.   
   
 Voici quelques affiches que j'aime beaucoup:
+[![Exemple de capture d'écran](photo_SF/VAHMIRE_defaroucher_webcapture20240121_SF.png)]([https://www.youtube.com/watch?v=ovc3ty_vqG0](http://www.impawards.com/tv/crowded_room_xlg.html)) 

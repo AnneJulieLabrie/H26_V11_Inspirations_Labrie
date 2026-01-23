@@ -1,6 +1,6 @@
 # Anne-Julie Labrie
 
 ![autoportrait](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Introduction/Portrait/Photos/TLOU2.png)
->Poster du jeu "The Last of Us part 2", mon jeu vidéo de coeur.
+>Poster du jeu "The Last of Us part 2" et "Five Nights at Freddy's" mes jeux vidéo de coeur.
 
 ## Intérêts dans le multimédia

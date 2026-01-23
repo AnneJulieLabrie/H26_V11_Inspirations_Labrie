@@ -5,7 +5,7 @@
 ## Intérêt dans le multimédia
 J'aime beaucoup analyser et créer des affiches, pour différents contextes, que ce soit pour un évènement, une musique, un film, un jeu, etc. La création d'affiche regorge de possibilités pour s'exprimer, le choix des polices, des couleurs, des images... Je trouve ça très intéressant. Avec la création d'affiche on peut passer des messages, qu'ils soient implicitent ou explicitent.   
   
-Voici quelques affiches que j'aime beaucoup (cliquer sur les images pour voir la source):
+Voici quelques affiches que j'aime beaucoup (cliquer sur les images pour voir la source de l'image) :
   
 [![poster de la tracklist d'un aldum d'ateez](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Introduction/Portrait/Photos/tracklist%20poster.jpg)](https://radiopowerstrike.com/ateez-reveals-exciting-tracklist-for-the-world-ep-fin-will/) 
   

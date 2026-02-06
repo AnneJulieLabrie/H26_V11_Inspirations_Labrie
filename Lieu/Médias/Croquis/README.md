@@ -1,1 +1,1 @@
-Toutes les photos
+Le croquis de l'oeuvre

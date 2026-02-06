@@ -1,2 +1,0 @@
-Tout les médias utilisés
-

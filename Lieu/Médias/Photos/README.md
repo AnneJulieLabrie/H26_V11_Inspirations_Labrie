@@ -1,1 +1,2 @@
-Toutes les vidéos
+Toutes les photos
+

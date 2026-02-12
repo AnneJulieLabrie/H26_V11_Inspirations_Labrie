@@ -26,6 +26,14 @@
 > Croquis de l'oeuvre dans l'escape
 
 ## Composantes et techniques
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_02.png)
+> Le bandeau à mettre sur la tête pour intéargir avec l'oeuvre
+
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/banc_ordi.png)
+> L'ordinateur, situé sous un bac en verre
+
+> Le dispositiif qui montre les ondes détectés
 
 ## Éléments nécéssaire à la mise en exposition
 

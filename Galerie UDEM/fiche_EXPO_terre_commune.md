@@ -33,6 +33,7 @@
 ![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/banc_ordi.png)
 > L'ordinateur, situé sous un bac en verre
 
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/dispositif_ondes.png)
 > Le dispositiif qui montre les ondes détectés
 
 ## Éléments nécéssaire à la mise en exposition

@@ -37,6 +37,11 @@
 > Le dispositiif qui montre les ondes détectés
 
 ## Éléments nécéssaire à la mise en exposition
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_01.png)
+> Projecteur pour projeter l'oeuvre
+
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_02.png)
+> Photos des lumières, qui permettent la mise en place de l'oeuvre
 
 ## Expérience vécue
 

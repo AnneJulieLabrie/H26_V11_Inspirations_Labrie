@@ -15,13 +15,26 @@
 > Vue d'ensemble de l'oeuvre
 
 ## Description de l'oeuvre
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_01.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_02.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)
+> Photos du cartel de l'oeuvre
+
 ## Type d'installation
 ## Mise en espace
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis.png)
+> Croquis de l'oeuvre dans l'escape
+
 ## Composantes et techniques
+
 ## Éléments nécéssaire à la mise en exposition
+
 ## Expérience vécue
+
 ## Ce qui m'a plu
+
 ## Ce qui m'a moins plu
+
 ## Références
 - Photos prises par Anne-Julie Labrie
 - Site de l'exposition: https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php

@@ -8,3 +8,8 @@
 
 ## Terre Commune
 ### Nom de l'artiste, réalisé en 2025
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_01.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_03.png)
+![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_04.png)
+> Vue d'ensemble de l'oeuvre

@@ -1,4 +1,4 @@
-# Devenirs partagés pratiques de l'IA
+# Devenirs partagés. Pratiques de l'IA
 ## Exposition temporaire, Galerie de l'Université de Montréal, 30 janvier 2026
 ![affiche](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/affiche_expo.png)
 > Affiche de l'exposition  

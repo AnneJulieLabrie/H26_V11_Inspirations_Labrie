@@ -42,7 +42,7 @@ L'oeuvre est composé d'environ 4 éléments clés. Tout d'abord, il y a une pro
 > L'ordinateur, situé sous un bac en verre
 
 ![ondes](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/dispositif_ondes.png)
-> Le dispositiif qui montre les ondes détectés
+> Le dispositiif qui montre les ondes détectées
 
 ## Éléments nécéssaire à la mise en exposition
 ![projecteur](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_01.png)

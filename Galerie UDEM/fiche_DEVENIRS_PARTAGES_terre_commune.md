@@ -48,7 +48,7 @@ L'oeuvre est composée d'environ 4 éléments clés. Tout d'abord, il y a une pr
 ![projecteur](medias/photos/projecteur.png)
 > Projecteur pour projeter l'oeuvre.
 
-![lumières](medias/photos/plafond_02.png)
+![lumières](medias/photos/plafond_lumieres.png)
 > Photos des lumières, qui permettent à l'oeuvre d'être présentée.
 
 ## Expérience vécue

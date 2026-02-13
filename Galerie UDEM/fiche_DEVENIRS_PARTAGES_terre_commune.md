@@ -21,6 +21,10 @@
 > Photos du cartel de l'oeuvre
 
 ## Type d'installation
+L'oeuvre est intéractive.
+![]()
+> description
+
 ## Mise en espace
 ![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis.png)
 > Croquis de l'oeuvre dans l'escape

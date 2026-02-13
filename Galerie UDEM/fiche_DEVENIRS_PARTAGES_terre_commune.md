@@ -6,7 +6,7 @@ C'est une exposition intérieure et temporaire, présentée à la Galerie de l'U
 > Affiche de l'exposition  
 
 ![autoportrait](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/autoportrait.png)
-> Moi et Théana Leurot devant l'entré de l'exposition
+> Moi et Théana Leurot devant l'entrée de l'exposition.
 
 ## Terre Commune / Common Ground
 ### Marion Schneider, réalisé en 2025
@@ -28,28 +28,28 @@ L'artiste a fournie une banque d'images à une intelligence artificielle génér
 L'oeuvre est intéractive.
 
 ## Mise en espace
-L'oeuvre est composé d'environ 4 éléments clés. Tout d'abord, il y a une projection au mur de ce que l'IA génère, juste en face il y a un banc en verre sur lequel il est possible de s'assoir. En dessous de celui-ci, il y a un ordinateur, qui contient les données. Sur le banc se trouve un bandeau qui permet de détecter les ondes alphas du cerveau, lorsque porté sur la tête. À gauche de la projection, il y a un dispositif qui affiche les ondes que le bandeau détecte.
+L'oeuvre est composée d'environ 4 éléments clés. Tout d'abord, il y a une projection au mur de ce que l'IA génère, juste en face il y a un banc en verre sur lequel il est possible de s'asseoir. En dessous de celui-ci, il y a un ordinateur, qui contient les données de l'oeuvre. Sur le banc se trouve un bandeau qui permet de détecter les ondes alphas du cerveau, lorsque porté sur la tête. À gauche de la projection, il y a un dispositif qui affiche les ondes que le bandeau détecte.
 
 ![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_oeuvre.png)
-> Croquis de l'oeuvre dans l'espace
+> Croquis de l'oeuvre dans l'espace.
 
 ## Composantes et techniques
 ![bandeau1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)
 ![bandeau2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_02.png)
-> Le bandeau à mettre sur la tête pour intéargir avec l'oeuvre
+> Le bandeau à mettre sur la tête pour intéargir avec l'oeuvre.
 
 ![banc](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/banc_ordi.png)
-> L'ordinateur, situé sous un bac en verre
+> L'ordinateur, situé sous un bac en verre.
 
 ![ondes](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/dispositif_ondes.png)
-> Le dispositiif qui montre les ondes détectées
+> Le dispositiif qui montre les ondes détectées.
 
 ## Éléments nécéssaire à la mise en exposition
 ![projecteur](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_01.png)
-> Projecteur pour projeter l'oeuvre
+> Projecteur pour projeter l'oeuvre.
 
 ![lumières](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_02.png)
-> Photos des lumières, qui permettent la mise en place de l'oeuvre
+> Photos des lumières, qui permettent à l'oeuvre d'être présentée.
 
 ## Expérience vécue
 ![croquis salle](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_salle.PNG)

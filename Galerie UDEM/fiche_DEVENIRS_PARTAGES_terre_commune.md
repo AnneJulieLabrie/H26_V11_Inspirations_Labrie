@@ -45,7 +45,7 @@ L'oeuvre est composée d'environ 4 éléments clés. Tout d'abord, il y a une pr
 > Le dispositiif qui montre les ondes détectées.
 
 ## Éléments nécéssaire à la mise en exposition
-![projecteur](medias/photos/plafond_01.png)
+![projecteur](medias/photos/projecteur.png)
 > Projecteur pour projeter l'oeuvre.
 
 ![lumières](medias/photos/plafond_02.png)

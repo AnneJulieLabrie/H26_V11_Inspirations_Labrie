@@ -16,6 +16,7 @@
 
 ## Description de l'oeuvre
 L'artiste a fournie une banque d'images à une intelligence artificielle génératrice, composée d'images qu'elle a elle-même prise dans la forêt. L'oeuvre est accompagnée d'un bandeau et lorsque qu'on le met sur notre tête, les ondes alphas sont détectées et cela permets à l'IA de générer de nouvelles images.
+
 ![cartel1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_01.png)
 ![cartel2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_02.png)
 ![cartel3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)

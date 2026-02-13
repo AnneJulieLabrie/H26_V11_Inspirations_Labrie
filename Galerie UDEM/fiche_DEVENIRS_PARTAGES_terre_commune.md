@@ -59,7 +59,7 @@ L'oeuvre est composée d'environ 4 éléments clés. Tout d'abord, il y a une pr
 > Vue d'ensemble de l'oeuvre dans l'espace, c'est la première oeuvre à droite de l'image.
 
 ## Ce qui m'a plu
-J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose. En général, je n'aime pas beaucoup les expositions, parce que je suis facilement ennuyée, alors pouvoir intéragir avec l'oeuvre m'a bien stimulé.
+J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose. En général, je n'aime pas beaucoup les expositions, parce que je suis facilement ennuyée, alors pouvoir intéragir avec l'oeuvre m'a bien stimulée.
 
 ## Ce qui m'a moins plu
 Je n'ai compris le but exact de l'oeuvre, les images changeaient à peine lorsque qu'on portait le casque, ce qui est dommage.

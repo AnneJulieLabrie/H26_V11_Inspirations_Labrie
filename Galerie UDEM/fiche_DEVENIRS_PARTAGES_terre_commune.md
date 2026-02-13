@@ -24,12 +24,12 @@ L'artiste a fournie une banque d'images à une intelligence artificielle génér
 
 ## Type d'installation
 L'oeuvre est intéractive.
-![]()
-> description
 
 ## Mise en espace
 ![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_oeuvre.png)
 > Croquis de l'oeuvre dans l'espace
+! [](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/vue_ensemble.png)
+> Vue d'ensemble de l'oeuvre dasn l'espace, c'est la première oeuvre à gauche de l'image.
 
 ## Composantes et techniques
 ![bandeau1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)
@@ -62,3 +62,4 @@ Je n'ai compris le but exact de l'oeuvre, les images changeaient à peine lorsqu
 ## Références
 - Photos prises par Anne-Julie Labrie
 - Site de l'exposition: https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php
+- Photo de la vue d'ensemble prise par Thomas Bozelko

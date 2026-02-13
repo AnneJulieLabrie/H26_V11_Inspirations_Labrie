@@ -20,7 +20,7 @@
 ![cartel3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)
 > Photos du cartel de l'oeuvre
 
-Banque de données que l’artiste a pris en nature et quand on met le casque ça génère de nouvelles images, mais similaires puisque c’est la même bas de données 
+L'artiste a fournie une banque d'images à une intelligence artificielle génératrice, composée d'images qu'elle a elle-même prise dans la forêt. L'oeuvre est accompagnée d'un bandeau et lorsque qu'on le met sur notre tête, les ondes alphas sont détectées et cela permets à l'IA de générer de nouvelles images.
 
 ## Type d'installation
 L'oeuvre est intéractive.

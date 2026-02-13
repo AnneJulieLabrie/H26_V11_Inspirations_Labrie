@@ -8,43 +8,43 @@
 
 ## Terre Commune
 ### Marion Schneider, réalisé en 2025
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_01.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_03.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_04.png)
+![oeuvre1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_01.png)
+![oeuvre2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)
+![oeuvre3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_03.png)
+![oeuvre4](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_04.png)
 > Vue d'ensemble de l'oeuvre
 
 ## Description de l'oeuvre
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_01.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_02.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)
+![cartel1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_01.png)
+![cartel2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_02.png)
+![cartel3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)
 > Photos du cartel de l'oeuvre
 
 ## Type d'installation
 ## Mise en espace
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis.png)
+![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis.png)
 > Croquis de l'oeuvre dans l'escape
 
 ## Composantes et techniques
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_02.png)
+![bandeau1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)
+![bandeau2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_02.png)
 > Le bandeau à mettre sur la tête pour intéargir avec l'oeuvre
 
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/banc_ordi.png)
+![banc](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/banc_ordi.png)
 > L'ordinateur, situé sous un bac en verre
 
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/dispositif_ondes.png)
+![ondes](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/dispositif_ondes.png)
 > Le dispositiif qui montre les ondes détectés
 
 ## Éléments nécéssaire à la mise en exposition
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_01.png)
+![projecteur](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_01.png)
 > Projecteur pour projeter l'oeuvre
 
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_02.png)
+![lumières](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/plafond_02.png)
 > Photos des lumières, qui permettent la mise en place de l'oeuvre
 
 ## Expérience vécue
-
+![]()
 > L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
 
 ## Ce qui m'a plu

@@ -14,7 +14,7 @@ C'est une exposition intérieure et temporaire, présentée à la Galerie de l'U
 ![oeuvre2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)
 ![oeuvre3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_03.png)
 ![oeuvre4](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_04.png)
-> Vue d'ensemble de l'oeuvre
+> Vue d'ensemble de l'oeuvre, les images changent de façon progressive.
 
 ## Description de l'oeuvre
 L'artiste a fournie une banque d'images à une intelligence artificielle génératrice, composée d'images qu'elle a elle-même prise dans la forêt. L'oeuvre est accompagnée d'un bandeau et lorsque qu'on le met sur notre tête, les ondes alphas sont détectées et cela permets à l'IA de générer de nouvelles images.

@@ -51,7 +51,7 @@ L'oeuvre est intéractive.
 ![croquis salle](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_salle.PNG)
 > L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
 
-![](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/vue_ensemble.png)
+![vue d'ensemble](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/vue_ensemble.png)
 > Vue d'ensemble de l'oeuvre dasn l'espace, c'est la première oeuvre à gauche de l'image.
 
 ## Ce qui m'a plu

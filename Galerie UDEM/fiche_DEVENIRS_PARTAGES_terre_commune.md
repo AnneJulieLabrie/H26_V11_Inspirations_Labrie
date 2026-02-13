@@ -19,6 +19,7 @@
 ![cartel2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_02.png)
 ![cartel3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/cartel_03.png)
 > Photos du cartel de l'oeuvre
+Banque de données que l’artiste a pris en nature et quand on met le casque ça génère de nouvelles images, mais similaires puisque c’est la même bas de données 
 
 ## Type d'installation
 L'oeuvre est intéractive.

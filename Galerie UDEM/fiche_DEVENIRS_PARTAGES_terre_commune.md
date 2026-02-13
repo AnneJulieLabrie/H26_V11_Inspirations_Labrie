@@ -9,7 +9,7 @@ C'est une exposition intérieure et temporaire, présentée à la Galerie de l'U
 > Moi et Théana Leurot devant l'entrée de l'exposition.
 
 ## Terre Commune / Common Ground
-### Marion Schneider, réalisé en 2025
+### Marion Schneider, oeuvre réalisée en 2025
 ![oeuvre1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_01.png)
 ![oeuvre2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)
 ![oeuvre3](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_03.png)

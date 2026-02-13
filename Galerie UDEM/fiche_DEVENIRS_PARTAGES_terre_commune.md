@@ -1,14 +1,14 @@
 # Devenirs partagés. Pratiques de l'IA
 
 ## Informations générales sur l'exposition
-C'est une exposition intérieure et temporaire, présentée à la Galerie de l'Université de Montréal, visitée le 30 janvier 2026
+C'est une exposition intérieure et temporaire, présentée à la Galerie de l'Université de Montréal, visitée le 30 janvier 2026.
 ![affiche](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/affiche_expo.png)
 > Affiche de l'exposition  
 
 ![autoportrait](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/autoportrait.png)
 > Moi et Théana Leurot devant l'entré de l'exposition
 
-## Terre Commune
+## Terre Commune / Common Ground
 ### Marion Schneider, réalisé en 2025
 ![oeuvre1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_01.png)
 ![oeuvre2](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/photo_oeuvre_02.png)

@@ -52,7 +52,7 @@ L'oeuvre est intéractive.
 > L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
 
 ![vue d'ensemble](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/vue_ensemble.png)
-> Vue d'ensemble de l'oeuvre dasn l'espace, c'est la première oeuvre à gauche de l'image.
+> Vue d'ensemble de l'oeuvre dans l'espace, c'est la première oeuvre à gauche de l'image.
 
 ## Ce qui m'a plu
 J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose.

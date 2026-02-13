@@ -45,6 +45,8 @@
 
 ## Expérience vécue
 
+> L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
+
 ## Ce qui m'a plu
 J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose.
 

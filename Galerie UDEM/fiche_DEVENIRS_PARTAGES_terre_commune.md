@@ -26,8 +26,8 @@ L'oeuvre est intéractive.
 > description
 
 ## Mise en espace
-![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis.png)
-> Croquis de l'oeuvre dans l'escape
+![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_oeuvre.png)
+> Croquis de l'oeuvre dans l'espace
 
 ## Composantes et techniques
 ![bandeau1](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/bandeau_01.png)

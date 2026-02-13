@@ -26,6 +26,8 @@ L'artiste a fournie une banque d'images à une intelligence artificielle génér
 L'oeuvre est intéractive.
 
 ## Mise en espace
+L'oeuvre est composé d'environ 4 éléments clés. Tout d'abord, il y a une projection au mur de ce que l'IA génère, juste en face il y a un banc en verre sur lequel il est possible de s'assoir. En dessous de celui-ci, il y a un ordinateur, qui contient les données. Sur le banc se trouve un bandeau qui permet de détecter les ondes alphas du cerveau, lorsque porté sur la tête. À gauche de la projection, il y a un dispositif qui affiche les ondes que le bandeau détecte.
+
 ![croquis](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_oeuvre.png)
 > Croquis de l'oeuvre dans l'espace
 
@@ -52,7 +54,7 @@ L'oeuvre est intéractive.
 > L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
 
 ![vue d'ensemble](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/photos/vue_ensemble.png)
-> Vue d'ensemble de l'oeuvre dans l'espace, c'est la première oeuvre à gauche de l'image.
+> Vue d'ensemble de l'oeuvre dans l'espace, c'est la première oeuvre à droite de l'image.
 
 ## Ce qui m'a plu
 J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose.

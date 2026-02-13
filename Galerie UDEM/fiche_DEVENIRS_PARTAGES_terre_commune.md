@@ -48,7 +48,7 @@ L'oeuvre est intéractive.
 > Photos des lumières, qui permettent la mise en place de l'oeuvre
 
 ## Expérience vécue
-![]()
+![croquis salle](https://github.com/AnneJulieLabrie/H26_V11_Inspirations_Labrie/blob/main/Galerie%20UDEM/medias/croquis/croquis_salle.PNG)
 > L'oeuvre est disposée en première dans le trajet de l'exposition. Elle prend environ la moitié du premier mur.
 
 ## Ce qui m'a plu

@@ -46,8 +46,10 @@
 ## Expérience vécue
 
 ## Ce qui m'a plu
+J'ai aimé l'intéractivité de l'oeuvre, c'est plus intéressant que simplement observer quelque chose.
 
 ## Ce qui m'a moins plu
+Je n'ai compris le but exact de l'oeuvre, les images changeaient à peine lorsque qu'on portait le casque, ce qui est dommage.
 
 ## Références
 - Photos prises par Anne-Julie Labrie

@@ -1,7 +1,9 @@
 # Lumino
 
 ## Informations générales sur l'exposition
-Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée à la place des arts à Montréal et que j'ai visitée le 20 février 2026.
+Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée à la place des arts à Montréal et que j'ai visitée le 20 février 2026.  
+![affiche exposition](medias/photos/affiche_expo.png)
+> Affiche de l'exposition
 
 ## Stargate
 ### CHALK RIVER LABS, réalisée en 202

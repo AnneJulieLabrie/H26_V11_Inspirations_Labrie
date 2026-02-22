@@ -4,7 +4,7 @@
 - 20 février 2026
 - Stargate
 - CHALK RIVER LABS
-- année
+- 2025
 - description
 - Immersive
 - Fonction

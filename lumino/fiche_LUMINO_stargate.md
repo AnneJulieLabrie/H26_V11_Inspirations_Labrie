@@ -6,7 +6,8 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ## Stargate
 ### CHALK RIVER LABS, réalisée en 202
 ![photos du dispositif de nuit](medias/photos/changements_couleurs.png)
-> Photos du dispositif de nuit  
+> Photos du dispositif de nuit
+
 ![](medias/photos/vue_jour.png)
 > Photo du dispositif de jour
 

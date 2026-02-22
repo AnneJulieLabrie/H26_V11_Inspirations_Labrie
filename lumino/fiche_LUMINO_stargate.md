@@ -22,6 +22,7 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ## Mise en espace
 ![](medias/croquis/croquis_vue_haut.png)
 > Croquis du dispositif vue de haut
+
 ![](medias/croquis/croquis_vue_face.png)
 > Croquis du dispositif vue de face
 

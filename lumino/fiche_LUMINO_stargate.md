@@ -20,15 +20,19 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ## Fonction du dispositif
 
 ## Mise en espace
-![](medias/croquis/croquis_vue_haut.png)
+![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
 > Croquis du dispositif vue de haut
 
-![](medias/croquis/croquis_vue_face.png)
+![Croquis vue de face](medias/croquis/croquis_vue_face.png)
 > Croquis du dispositif vue de face
 
 ## Composantes et techniques
+![](medias/photos/photo_enceintes_lumiere.png)
+> Les projecteurs et les enceintes 
 
 ## Éléments nécessaires à la mise en exposition
+![socle](medias/photos/photo_socle.png)
+> Le socle sur lequel repose le dispositif
 
 ## Ce qui m'a plu
 audio immersive, changements de couleurs intéressants

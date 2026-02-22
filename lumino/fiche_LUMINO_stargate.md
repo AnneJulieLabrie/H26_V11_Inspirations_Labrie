@@ -43,7 +43,7 @@ Il s'agit d'une installation immersive
 > Le socle sur lequel repose le dispositif
 
 ## Ce qui m'a plu
-audio immersive, changements de couleurs intéressants
+audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher
 
 ## Ce qui m'a moins plu
 Milieu décevant

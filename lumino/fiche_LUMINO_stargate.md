@@ -12,7 +12,8 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 > Photo du dispositif de jour
 
 ## Description de l'oeuvre
-![photo du dispositif de jour](medias/photos/cartel.png)
+![texte explicatif](medias/photos/texte_explicatif.png)
+> Texte explicatif du dispositif
 
 ## Type d'installation
 

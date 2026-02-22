@@ -32,8 +32,11 @@ Il s'agit d'une installation immersive
 > Croquis du dispositif vue de face
 
 ## Composantes et techniques
-![](medias/photos/photo_enceintes_lumiere.png)
-> Les projecteurs et les enceintes 
+![projecteurs et enceintes](medias/photos/photo_enceintes_lumiere.png)
+> Les projecteurs et les enceintes
+
+![structure](medias/photos/structure.png)
+> La structure sur laquelle sont projetées des lumières
 
 ## Éléments nécessaires à la mise en exposition
 ![socle](medias/photos/photo_socle.png)

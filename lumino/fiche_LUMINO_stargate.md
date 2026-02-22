@@ -11,11 +11,14 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ![](medias/photos/vue_jour.png)
 > Photo du dispositif de jour
 
-## Description de l'oeuvre
+## Description du dispositif
 ![texte explicatif](medias/photos/texte_explicatif.png)
 > Texte explicatif du dispositif
 
 ## Type d'installation
+Il s'agit d'une installation immersive
+![vue d'ensemble](medias/photos/vue_ensemble.png)
+> Vue d'ensemble du dispositif
 
 ## Fonction du dispositif
 

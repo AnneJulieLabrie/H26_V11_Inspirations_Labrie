@@ -16,7 +16,7 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 > Texte explicatif du dispositif
 
 ## Type d'installation
-Il s'agit d'une installation immersive
+Il s'agit d'une installation immersive  
 ![vue d'ensemble](medias/photos/vue_ensemble.png)
 > Vue d'ensemble du dispositif
 

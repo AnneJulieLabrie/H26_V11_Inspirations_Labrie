@@ -5,10 +5,13 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 
 ## Stargate
 ### CHALK RIVER LABS, réalisée en 202
-![photos du dispositif](medias/photos/changements_couleurs.png)
+![photos du dispositif de nuit](medias/photos/changements_couleurs.png)
+> Photos du dispositif de nuit  
+![](medias/photos/vue_jour.png)
+> Photo du dispositif de jour
 
 ## Description de l'oeuvre
-![photos du dispositif](medias/photos/cartel.png)
+![photo du dispositif de jour](medias/photos/cartel.png)
 
 ## Type d'installation
 
@@ -27,8 +30,8 @@ audio immersive, changements de couleurs intéressants
 Milieu décevant
 
 ## Références
-Photos de l'oeuvre prisent par Anne-Julie Labrie
-Photos du dispositif de jour : https://www.instagram.com/p/CqOU8LxvbSQ/?img_index=1
-Extrait audio : https://www.instagram.com/reels/audio/211889515341615/
-Autres informations: https://www.luminomtl.com/en/activities/exterior-works/stargate et https://www.chalkriverlabs.art/portfolio-collections/my-portfolio/project-title-6  
+1. Photos de l'oeuvre prisent par Anne-Julie Labrie
+2. Photos du dispositif de jour : https://www.instagram.com/p/CqOU8LxvbSQ/?img_index=1
+3. Extrait audio : https://www.instagram.com/reels/audio/211889515341615/
+4. Autres informations: https://www.luminomtl.com/en/activities/exterior-works/stargate et https://www.chalkriverlabs.art/portfolio-collections/my-portfolio/project-title-6  
 

@@ -14,7 +14,7 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 > Photo du oeuvre de jour
 
 [extrait_audio.mp3](https://github.com/user-attachments/files/25607587/extrait_audio.mp3)
-> Extrait audio 
+> Extrait de l'audio de l'oeuvre 
 
 ## Description du oeuvre
 ![texte explicatif](medias/photos/texte_explicatif.png)

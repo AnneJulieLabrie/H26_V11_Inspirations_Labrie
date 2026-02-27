@@ -7,29 +7,29 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 
 ## Stargate
 ### CHALK RIVER LABS, réalisée en 202
-![photos du dispositif de nuit](medias/photos/changements_couleurs.png)
-> Photos du dispositif de nuit
+![photos du oeuvre de nuit](medias/photos/changements_couleurs.png)
+> Photos du oeuvre de nuit
 
 ![](medias/photos/vue_jour.png)
-> Photo du dispositif de jour
+> Photo du oeuvre de jour
 
-## Description du dispositif
+## Description du oeuvre
 ![texte explicatif](medias/photos/texte_explicatif.png)
-> Texte explicatif du dispositif
+> Texte explicatif du oeuvre
 
 ## Type d'installation
 Il s'agit d'une installation immersive  
 ![vue d'ensemble](medias/photos/vue_ensemble.png)
-> Vue d'ensemble du dispositif
+> Vue d'ensemble du oeuvre
 
-## Fonction du dispositif
+## Fonction du oeuvre
 
 ## Mise en espace
 ![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
-> Croquis du dispositif vue de haut
+> Croquis du oeuvre vue de haut
 
 ![Croquis vue de face](medias/croquis/croquis_vue_face.png)
-> Croquis du dispositif vue de face
+> Croquis du oeuvre vue de face
 
 ## Composantes et techniques
 ![projecteurs et enceintes](medias/photos/photo_enceintes_lumiere.png)
@@ -40,7 +40,7 @@ Il s'agit d'une installation immersive
 
 ## Éléments nécessaires à la mise en exposition
 ![socle](medias/photos/photo_socle.png)
-> Le socle sur lequel repose le dispositif
+> Le socle sur lequel repose le oeuvre
 
 ## Ce qui m'a plu
 audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher
@@ -50,7 +50,7 @@ Milieu décevant
 
 ## Références
 1. Photos de l'oeuvre prisent par Anne-Julie Labrie
-2. Photos du dispositif de jour : https://www.instagram.com/p/CqOU8LxvbSQ/?img_index=1
+2. Photos du oeuvre de jour : https://www.instagram.com/p/CqOU8LxvbSQ/?img_index=1
 3. Extrait audio : https://www.instagram.com/reels/audio/211889515341615/
 4. Autres informations: https://www.luminomtl.com/en/activities/exterior-works/stargate et https://www.chalkriverlabs.art/portfolio-collections/my-portfolio/project-title-6  
 

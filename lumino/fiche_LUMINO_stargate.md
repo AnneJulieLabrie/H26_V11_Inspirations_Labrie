@@ -13,6 +13,9 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ![](medias/photos/vue_jour.png)
 > Photo du oeuvre de jour
 
+[extrait_audio.mp3](https://github.com/user-attachments/files/25607587/extrait_audio.mp3)
+> Extrait audio 
+
 ## Description du oeuvre
 ![texte explicatif](medias/photos/texte_explicatif.png)
 > Texte explicatif du oeuvre
@@ -21,8 +24,6 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 Il s'agit d'une installation immersive  
 ![vue d'ensemble](medias/photos/vue_ensemble.png)
 > Vue d'ensemble du oeuvre
-
-## Fonction du oeuvre
 
 ## Mise en espace
 ![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
@@ -47,8 +48,6 @@ audio immersive, changements de couleurs intéressants, les projecteurs sont sur
 
 ## Ce qui m'a moins plu
 Milieu décevant
-
-[extrait_audio.mp3](https://github.com/user-attachments/files/25607587/extrait_audio.mp3)
 
 
 ## Références

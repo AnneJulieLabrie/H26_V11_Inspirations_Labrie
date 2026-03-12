@@ -27,7 +27,7 @@ Il s'agit d'une installation immersive
 
 ## Mise en espace
 ![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
-> Croquis du oeuvre vue de haut
+> Croquis de l'oeuvre vue de haut
 
 ![Croquis vue de face](medias/croquis/croquis_vue_face.png)
 > Croquis du oeuvre vue de face

@@ -18,19 +18,19 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 
 ## Description du oeuvre
 ![texte explicatif](medias/photos/texte_explicatif.png)
-> Texte explicatif du oeuvre
+> Texte explicatif de l'oeuvre
 
 ## Type d'installation
 Il s'agit d'une installation immersive  
 ![vue d'ensemble](medias/photos/vue_ensemble.png)
-> Vue d'ensemble du oeuvre
+> Vue d'ensemble de l'oeuvre
 
 ## Mise en espace
 ![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
 > Croquis de l'oeuvre vue de haut
 
 ![Croquis vue de face](medias/croquis/croquis_vue_face.png)
-> Croquis du oeuvre vue de face
+> Croquis de l'oeuvre vue de face
 
 ## Composantes et techniques
 ![projecteurs et enceintes](medias/photos/photo_enceintes_lumiere.png)

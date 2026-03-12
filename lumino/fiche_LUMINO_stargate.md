@@ -43,7 +43,7 @@ Il s'agit d'une installation immersive
 
 ## Éléments nécessaires à la mise en exposition
 ![socle](medias/photos/photo_socle.png)
-> Le socle sur lequel repose le oeuvre
+> Le socle sur lequel repose la structure de l'oeuvre
 
 ## Ce qui m'a plu
 audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher

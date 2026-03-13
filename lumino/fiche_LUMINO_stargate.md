@@ -8,7 +8,7 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 ![autoportrait](medias/photos/autoportrait.png)
 > Moi devant l'affiche de l'exposition
 ## Stargate
-### CHALK RIVER LABS, réalisée en 202
+### CHALK RIVER LABS, réalisée en 2025
 ![photos du oeuvre de nuit](medias/photos/changements_couleurs.png)
 > Photos du oeuvre de nuit
 
@@ -17,8 +17,10 @@ Il s'agit d'une exposition temporaire, intérieure et extérieure, présentée �
 
 [extrait_audio.mp3](https://github.com/user-attachments/files/25607587/extrait_audio.mp3)
 > Extrait de l'audio de l'oeuvre 
-
+ 
 ## Description de l'oeuvre
+Il s'agit d'une structure d'environ 3-4 mètres de haut et de large sur laquelle sont projetés des lumières et motifs colorés. Il y a également un audio qui joue en boucle et qui donne vit à un univers fantastique qui rappel l'espace.
+
 ![texte explicatif](medias/photos/texte_explicatif.png)
 > Texte explicatif de l'oeuvre
 
@@ -44,6 +46,9 @@ Il s'agit d'une installation immersive
 ## Éléments nécessaires à la mise en exposition
 ![socle](medias/photos/photo_socle.png)
 > Le socle sur lequel repose la structure de l'oeuvre
+
+## Expérience vécue
+Il faut tourner autour de l,oeuvre et se placer à différents endroits pour apprécier les différents angles de lumière et l'audio. Nous sommes également invité à s'assoir au milieu
 
 ## Ce qui m'a plu
 audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher

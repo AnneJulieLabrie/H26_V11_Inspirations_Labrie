@@ -35,7 +35,7 @@ Il s'agit d'une installation immersive
 ![Croquis vue de haut](medias/croquis/croquis_vue_haut.png)
 > Croquis de l'oeuvre vue de haut
 
-![Croquis vue de face](medias/croquis/croquis_vue_face.png)
+![Croquis vue de face](medias/croquis/croquis_face.png)
 > Croquis de l'oeuvre vue de face
 
 ## Composantes et techniques

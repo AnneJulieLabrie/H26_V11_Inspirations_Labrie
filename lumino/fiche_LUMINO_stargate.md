@@ -11,16 +11,16 @@ Il s'agit d'une exposition temporaire, en extérieure, présentée à la place d
 ## Stargate
 ### CHALK RIVER LABS, réalisée en 2025
 ![photos du oeuvre de nuit](medias/photos/changements_couleurs.png)
-> Photos du oeuvre de nuit
+> Photos de l'oeuvre de nuit
 
 ![](medias/photos/vue_jour.png)
-> Photo du oeuvre de jour
+> Photo de l'oeuvre de jour
 
 [extrait_audio.mp3](https://github.com/user-attachments/files/25607587/extrait_audio.mp3)
 > Extrait de l'audio de l'oeuvre 
  
 ## Description de l'oeuvre
-Il s'agit d'une structure d'environ 3-4 mètres de haut et de large sur laquelle sont projetés des lumières et motifs colorés. Il y a également un audio qui joue en boucle et qui donne vit à un univers fantastique qui rappel l'espace.
+Il s'agit d'une structure d'environ 3-4 mètres de haut et de large sur laquelle sont projetés des lumières et motifs colorés, qui changent constamment. Il y a également un audio qui joue en boucle et qui donne vit à un univers fantastique qui rappel l'espace.
 
 ![texte explicatif](medias/photos/texte_explicatif.png)
 > Texte explicatif de l'oeuvre
@@ -50,7 +50,7 @@ Il s'agit d'une installation immersive
 > Le socle sur lequel repose la structure de l'oeuvre
 
 ## Expérience vécue
-Il faut tourner autour de l,oeuvre et se placer à différents endroits pour apprécier les différents angles de lumière et l'audio. Nous sommes également invité à s'assoir au milieu
+Afin de bien apprécier l'oeuvre, il faut tourner autour de la structure, afin d'observer les projections de lumières sous différents angles et écouter l'audio sous différentes perspectives.
 
 ## Ce qui m'a plu
 audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher

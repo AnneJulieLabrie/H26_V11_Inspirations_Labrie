@@ -41,7 +41,7 @@ Il s'agit d'une installation immersive
 > Les projecteurs et les enceintes
 
 ![structure](medias/photos/structure.png)
-> La structure sur laquelle sont projetées des lumières
+> La structure sur laquelle sont projetées les lumières
 
 ## Éléments nécessaires à la mise en exposition
 ![socle](medias/photos/photo_socle.png)

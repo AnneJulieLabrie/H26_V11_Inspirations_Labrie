@@ -56,7 +56,7 @@ Afin de bien apprécier l'oeuvre, il faut tourner autour de la structure, afin d
 audio immersive, changements de couleurs intéressants, les projecteurs sont sur le côté donc on peut être en avant sans tout gâcher
 
 ## Ce qui m'a moins plu
-Milieu décevant
+Nous sommes également invité à se rendre dans le milieu de la structure et de s'y asseoir pour uyne expérience encore plus immersive. Malheureusement, j'ai trouvé cela plutôt décevant, les visuels sont plus impressionnants du point de vue extérieur qu'intérieur. De l'Intérieur, il s'agit simplement d'unne bande de lumière.
 
 
 ## Références

@@ -27,6 +27,7 @@ Il s'agit d'une structure d'environ 3-4 mètres de haut et de large sur laquelle
 
 ## Type d'installation
 Il s'agit d'une installation immersive  
+
 ![vue d'ensemble](medias/photos/vue_ensemble.png)
 > Vue d'ensemble de l'oeuvre
 

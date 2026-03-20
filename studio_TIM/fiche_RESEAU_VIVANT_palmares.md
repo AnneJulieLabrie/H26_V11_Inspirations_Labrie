@@ -40,6 +40,7 @@ Stress (bon stress), travail d'équipe, focus
 ![Schéma](medias/autres/schema_ocean.png)
 >Schéma 2D du projet
 ### Ressentis du projet
+Concept intéressant, visuels très beaux, mais redondant
 
 ## 5. Quand les yeux se croisent
 

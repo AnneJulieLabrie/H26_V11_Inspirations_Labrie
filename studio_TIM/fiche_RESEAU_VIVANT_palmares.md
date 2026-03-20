@@ -5,8 +5,8 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma]()
->Schéma du projet
+![Schéma](medias/autres/schema_terminal.png)
+>Implatation 2D du projet
 
 
 

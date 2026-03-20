@@ -45,8 +45,9 @@ Concept intéressant, visuels très beaux, mais redondant
 ## 5. Quand les yeux se croisent
 
 ### Projet réalisé par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
-![Vue d'ensemble]()
+![Vue d'ensemble](medias/autres/vue_yeux.jpg)
 >Vue d'ensemble du projet
+>source: https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/dossier_presse/
 
 ![Schéma](medias/autres/schema_yeux.jpg)
 >Implatation 2D du projet
@@ -73,4 +74,3 @@ Description
 - https://o-i-g-n-o-n.github.io/Mission-decollage/#/ (Mission décollage)
 - https://mammouths.github.io/projet/#/ (Arbre en Face)  
 #### Image de la composante truc truc :
-#### Photos des vues d'ensembles

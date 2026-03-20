@@ -14,7 +14,7 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma](medias/autres/schema_arbre.jpg)
+![Schéma]()
 >Model 2D du projet
 ### Ressentis du projet
 

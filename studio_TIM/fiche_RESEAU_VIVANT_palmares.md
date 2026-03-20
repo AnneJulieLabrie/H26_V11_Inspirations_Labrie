@@ -1,7 +1,7 @@
 # Palmarès des dispostifs de l'exposition "Résau Vivant"
 
 ## 1. Terminal
-Émeryk Belisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
+## Projet réalisé par Émeryk Belisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
 
 
 

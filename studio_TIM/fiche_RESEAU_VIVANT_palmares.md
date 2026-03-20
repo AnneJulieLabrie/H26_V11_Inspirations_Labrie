@@ -21,7 +21,7 @@
 ## 3. Mission Décolage
 
 ### Projet réalisé par 
-![Vue d'ensemble]()
+![Vue d'ensemble](medias/autres/schema_decolage.png)
 >Vue d'ensemble du projet
 
 ![Schéma]()

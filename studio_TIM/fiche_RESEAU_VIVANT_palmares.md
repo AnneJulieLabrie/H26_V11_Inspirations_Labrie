@@ -8,6 +8,7 @@
 ![Schéma](medias/autres/schema_terminal.png)
 >Implatation 2D du projet
 ### Ressentis du projet
+Compétition et travail d'équipe, amusant, captivant, problèmes lors de l'essai
 
 ## 2. Arbre en Face
 ### Projet réalisé par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé
@@ -17,6 +18,7 @@
 ![Schéma](medias/autres/schema_arbre.jpg)
 >Schéma 2D du projet
 ### Ressentis du projet
+Captivant, amusant
 
 ## 3. Mission Décolage
 
@@ -27,6 +29,7 @@
 ![Schéma]()
 >Implatation 2D du projet
 ### Ressentis du projet
+Stress (bon stress), travail d'équipe, focus
 
 ## 4. Océan Rouge
 
@@ -47,6 +50,7 @@
 ![Schéma](medias/autres/schema_yeux.jpg)
 >Implatation 2D du projet
 ### Ressentis du projet
+Visuelement beau, mais concept pas clair
 
 ## Reflexion du cheminement TIM
 ### 3 Cours incontournables pour la création de ce genre de projet

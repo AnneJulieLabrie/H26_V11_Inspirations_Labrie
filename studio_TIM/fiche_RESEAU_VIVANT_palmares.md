@@ -34,8 +34,8 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma]()
->Implatation 2D du projet
+![Schéma]medias/autres/schema_ocean.png)
+>Schéma 2D du projet
 ### Ressentis du projet
 
 ## 5. Quand les yeux se croisent

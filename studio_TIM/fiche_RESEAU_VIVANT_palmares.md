@@ -40,7 +40,8 @@
 
 ## 5. Quand les yeux se croisent
 
-### Projet réalisé par 
+### Projet réalisé par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
+
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 

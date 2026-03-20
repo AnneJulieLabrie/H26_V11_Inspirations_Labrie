@@ -10,7 +10,7 @@
 ### Ressentis du projet
 
 ## 2. Arbre en Face
-### Projet réalisé par 
+### Projet réalisé par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 

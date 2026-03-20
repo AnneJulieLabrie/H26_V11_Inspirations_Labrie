@@ -10,7 +10,7 @@
 ### Ressentis du projet
 
 ## 2. Arbre en Face
-### Projet réalisé par 
+### Projet réalisé par Amira Tounekti et Kristy Moussally
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 

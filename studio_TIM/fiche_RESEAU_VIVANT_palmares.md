@@ -48,4 +48,13 @@
 >Implatation 2D du projet
 ### Ressentis du projet
 
+## Reflexion du cheminement TIM
+### 3 Cours incontournables pour la création de ce genre de projet
+1. cours
+2. cours
+3. cours
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
+![nom]()
+>Caption
 
+Description

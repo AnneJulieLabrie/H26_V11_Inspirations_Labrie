@@ -50,9 +50,9 @@
 
 ## Reflexion du cheminement TIM
 ### 3 Cours incontournables pour la création de ce genre de projet
-1. cours
-2. cours
-3. cours
+1. Audio 1 et 2
+2. Réalité mixte
+3. Traitement audiovisuel
 
 ### Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
 ![nom]()

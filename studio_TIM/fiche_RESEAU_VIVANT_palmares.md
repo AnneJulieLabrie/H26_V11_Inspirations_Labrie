@@ -14,8 +14,8 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma]()
->Model 2D du projet
+![Schéma](medias/autres/schema_arbre.jpg)
+>Schéma 2D du projet
 ### Ressentis du projet
 
 ## 3. Mission Décolage
@@ -53,6 +53,7 @@
 1. cours
 2. cours
 3. cours
+
 ### Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
 ![nom]()
 >Caption

@@ -14,8 +14,8 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma]()
->Implatation 2D du projet
+![Schéma](medias/autres/schema_arbre.jpg)
+>Model 2D du projet
 ### Ressentis du projet
 
 ## 3. Mission Décolage

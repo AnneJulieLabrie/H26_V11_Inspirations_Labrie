@@ -20,7 +20,7 @@
 
 ## 3. Mission Décolage
 
-### Projet réalisé par 
+### Projet réalisé par Ahmed Kaissoumi,Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi
 ![Vue d'ensemble](medias/autres/schema_decolage.png)
 >Vue d'ensemble du projet
 
@@ -41,7 +41,6 @@
 ## 5. Quand les yeux se croisent
 
 ### Projet réalisé par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
-
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 

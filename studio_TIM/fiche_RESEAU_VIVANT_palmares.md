@@ -44,7 +44,7 @@
 ![Vue d'ensemble]()
 >Vue d'ensemble du projet
 
-![Schéma]()
+![Schéma](medias/autres/schema_yeux.jpg)
 >Implatation 2D du projet
 ### Ressentis du projet
 

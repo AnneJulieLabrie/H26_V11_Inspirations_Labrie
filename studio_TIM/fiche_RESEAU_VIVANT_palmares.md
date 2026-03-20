@@ -5,6 +5,7 @@
 ![]()
 >Vue d'ensemble du projet
 
+![Schéma du projet]()
 
 
 

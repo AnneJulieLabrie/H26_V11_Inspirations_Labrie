@@ -7,7 +7,7 @@
 
 ![Schéma](medias/autres/schema_terminal.png)
 >Implatation 2D du projet
-## Ressentis du projet
+### Ressentis du projet
 
 ## 2. Arbre en Face
 ### Projet réalisé par 
@@ -16,7 +16,7 @@
 
 ![Schéma]()
 >Implatation 2D du projet
-## Ressentis du projet
+### Ressentis du projet
 
 ## 3. Mission Décolage
 
@@ -26,7 +26,7 @@
 
 ![Schéma]()
 >Implatation 2D du projet
-## Ressentis du projet
+### Ressentis du projet
 
 ## 4. Océan Rouge
 
@@ -36,7 +36,7 @@
 
 ![Schéma]()
 >Implatation 2D du projet
-## Ressentis du projet
+### Ressentis du projet
 
 ## 5. Quand les yeux se croisent
 
@@ -46,6 +46,6 @@
 
 ![Schéma]()
 >Implatation 2D du projet
-## Ressentis du projet
+### Ressentis du projet
 
 

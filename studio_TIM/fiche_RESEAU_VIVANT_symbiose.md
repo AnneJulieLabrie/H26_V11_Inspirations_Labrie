@@ -4,8 +4,6 @@
 
 ## Symbiose
 
-### , réalisée en 2025-2026
-
 ## Description de l'œuvre
 
 ## Type d'installation

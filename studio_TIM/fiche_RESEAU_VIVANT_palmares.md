@@ -36,8 +36,9 @@ Stress (bon stress), travail d'équipe, focus
 ## 4. Océan Rouge
 
 ### Projet réalisé par Amira Tounekti et Kristy Moussally
-![Vue d'ensemble]()
->Vue d'ensemble du projet
+![Vue d'ensemble](medias/autres/vue_ocean.jpeg)
+>Vue d'ensemble du projet  
+(photo prise par Rosa-Lee Savoie)
 
 ![Schéma](medias/autres/schema_ocean.png)
 >Schéma 2D du projet

@@ -2,8 +2,9 @@
 
 ## 1. Terminal
 ### Projet réalisé par Émeryk Belisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
-![Vue d'ensemble]()
->Vue d'ensemble du projet
+![Vue d'ensemble](medias/autres/vue_terminal.jpeg)
+>Vue d'ensemble du projet  
+(photo prise par Rosa-Lee Savoie)
 
 ![Schéma](medias/autres/schema_terminal.png)
 >Implatation 2D du projet

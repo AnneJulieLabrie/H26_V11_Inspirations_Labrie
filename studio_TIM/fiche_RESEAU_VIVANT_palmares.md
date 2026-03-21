@@ -49,9 +49,9 @@ Concept intéressant, visuels très beaux, mais redondant
 ## 5. Quand les yeux se croisent
 
 ### Projet réalisé par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
-![Vue d'ensemble](medias/autres/vue_yeux.jpg)
+![Vue d'ensemble]()
 >Vue d'ensemble du projet  
-(source: https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/dossier_presse/)
+(photo prise par Rosa-Lee Savoie)
 
 ![Schéma](medias/autres/schema_yeux.jpg)
 >Implatation 2D du projet

@@ -9,6 +9,7 @@ Il s'agit d'une exposition temporaire que j'ai visitée le 24 février 2026 et l
 ## Informations générales sur l'exposition
 
 ## Symbiose
+### Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour, projet réalisé en 2025-2026
 
 ## Description de l'œuvre
 
@@ -29,3 +30,4 @@ Il s'agit d'une exposition temporaire que j'ai visitée le 24 février 2026 et l
 ## Ce qui m'a moins plu
 
 ## Références
+Lien du projet : https://les-chimistes.github.io/symbiose/#/

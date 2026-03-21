@@ -13,7 +13,7 @@ Compétition et travail d'équipe, amusant, captivant, problèmes lors de l'essa
 ## 2. Arbre en Face
 ### Projet réalisé par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé
 ![Vue d'ensemble](medias/autres/vue_arbre.jpeg)
->Vue d'ensemble du projet
+>Vue d'ensemble du projet  
 (photo prise par Rosa-Lee Savoie)
 
 ![Schéma](medias/autres/schema_arbre.jpg)

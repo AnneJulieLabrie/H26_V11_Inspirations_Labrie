@@ -2,12 +2,6 @@
 
 ## Informations générales sur l'exposition
 
-![affiche exposition]()
-> Affiche de l'exposition  
-
-![autoportrait]()
-> Moi devant l'entrée de l'exposition
-
 ## Symbiose
 
 ### , réalisée en 2025-2026
@@ -15,6 +9,8 @@
 ## Description de l'œuvre
 
 ## Type d'installation
+
+## Fonction du dispositif multimédia
 
 ## Mise en espace
 

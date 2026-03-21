@@ -24,10 +24,11 @@ Captivant, amusant
 ## 3. Mission Décolage
 
 ### Projet réalisé par Ahmed Kaissoumi,Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi
-![Vue d'ensemble](medias/autres/schema_decolage.png)
->Vue d'ensemble du projet
+![Vue d'ensemble](medias/autres/vue_decolage.jpeg)
+>Vue d'ensemble du projet  
+(photo prise par Rosa-Lee Savoie)
 
-![Schéma]()
+![Schéma](medias/autres/schema_decolage.png)
 >Implatation 2D du projet
 ### Ressentis du projet
 Stress (bon stress), travail d'équipe, focus

@@ -1,4 +1,6 @@
 # Réseau Vivant
+![photo de l'affiche](medias/symbiose/photos/affiche_expo.png)
+>Photo de l'affiche de l'exposition
 
 ## Informations générales sur l'exposition
 

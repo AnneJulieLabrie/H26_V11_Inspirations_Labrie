@@ -16,6 +16,8 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 
 ## Description de l'œuvre
 ![Texte explicatif](medias/symbiose/photos/texte_explicatif.png)
+>Texte explicatif du dispositif
+
 ## Type d'installation
 
 ## Fonction du dispositif multimédia
@@ -23,6 +25,10 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ## Mise en espace
 
 ## Composantes et techniques
+![composant 1](medias/symbiose/photos/erlenmeyer.png)
+![composant2](medias/symbiose/photos/roulette_temperature.png)
+![composant 3](medias/symbiose/photos/boutons.png)
+![composant 4](medias/symbiose/photos/joystick.png)
 
 ## Éléments nécessaires à la mise en exposition
 

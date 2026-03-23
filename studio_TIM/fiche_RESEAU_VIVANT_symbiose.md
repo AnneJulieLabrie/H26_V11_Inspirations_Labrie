@@ -23,6 +23,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ## Fonction du dispositif multimédia
 
 ## Mise en espace
+![croquis](medias/symbiose/croquis/croquis.png)
 
 ## Composantes et techniques
 ![composant 1](medias/symbiose/photos/erlenmeyer.png)

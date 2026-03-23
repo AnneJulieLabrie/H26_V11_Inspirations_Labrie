@@ -1,5 +1,6 @@
 # Réseau Vivant
-Il s'agit d'une exposition temporaire intérieure, que j'ai visitée le 24 février 2026 et le 17 mars 2026  
+Il s'agit d'une exposition temporaire intérieure, que j'ai visitée le 24 février 2026 et le 17 mars 2026
+
 ![photo de l'affiche](medias/symbiose/photos/affiche_expo.png)
 >Photo de l'affiche de l'exposition
 

@@ -29,6 +29,10 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ![composant2](medias/symbiose/photos/roulette_temperature.png)
 ![composant 3](medias/symbiose/photos/boutons.png)
 ![composant 4](medias/symbiose/photos/joystick.png)
+>Haut-gauche: erlenmeyer
+>Haut-droite: roulette  
+>Bas-gauche: boutons
+>Bas-droite: joystick
 
 ## Éléments nécessaires à la mise en exposition
 

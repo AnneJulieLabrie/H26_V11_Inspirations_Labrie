@@ -39,7 +39,8 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 
 ## Éléments nécessaires à la mise en exposition
 ![haut-parleurs](medias/symbiose/photos/haut_parleurs.png)
-![projections](medias/symbiose/photos/projecteur.png)
+![projecteurs](medias/symbiose/photos/projecteur.png)
+![socles](medias/symbiose/photos/socles.png)
 ## Expérience vécue
 
 ## Ce qui m'a plu

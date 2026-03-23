@@ -12,6 +12,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ## Symbiose
 ### Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour, projet réalisé en 2025-2026
 ![vue d'ensemble](medias/symbiose/photos/vue_ensemble.png)
+>Vue d'ensemble du dispositif
 
 ## Description de l'œuvre
 

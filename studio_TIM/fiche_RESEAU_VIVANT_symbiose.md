@@ -15,7 +15,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 >Vue d'ensemble du dispositif
 
 ## Description de l'œuvre
-![cartel](medias/symbiose/photos/cartel.png)
+![Texte explicatif](medias/symbiose/photos/texte_explicatif.png)
 ## Type d'installation
 
 ## Fonction du dispositif multimédia

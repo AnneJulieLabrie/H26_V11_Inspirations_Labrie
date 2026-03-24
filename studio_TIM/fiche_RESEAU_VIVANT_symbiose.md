@@ -52,6 +52,6 @@ recommende 4 jours, joue à minimum 2, chacun se met devant un truc, le jeu comm
 ## Ce qui m'a plu
 
 ## Ce qui m'a moins plu
-
+consignes pas très visibles
 ## Références
 Lien du projet : https://les-chimistes.github.io/symbiose/#/

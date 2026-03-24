@@ -48,7 +48,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ![socles](medias/symbiose/photos/socles.png)
 >Les socles qui permettent de soutenir les parties composantes du dispositif
 ## Expérience vécue
-
+recommende 4 jours, joue à minimum 2, chacun se met devant un truc, le jeu commence, qte à accomplir
 ## Ce qui m'a plu
 
 ## Ce qui m'a moins plu

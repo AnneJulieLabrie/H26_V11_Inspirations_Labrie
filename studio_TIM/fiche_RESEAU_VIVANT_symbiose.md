@@ -15,6 +15,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 >Vue d'ensemble du dispositif
 
 ## Description de l'œuvre
+4 rôles distincts. le premier eau, 2 température, 3 couleurs, 4 joystick
 ![Texte explicatif](medias/symbiose/photos/texte_explicatif.png)
 >Texte explicatif du dispositif
 

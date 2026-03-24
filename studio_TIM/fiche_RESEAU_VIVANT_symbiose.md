@@ -40,8 +40,13 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 
 ## Éléments nécessaires à la mise en exposition
 ![haut-parleurs](medias/symbiose/photos/haut_parleurs.png)
-![projecteurs](medias/symbiose/photos/projecteur.png)
+>Les hauts-parelurs permettent aux utilisateurs de se plongé dans l'univers du jeu avec les effets sonores.
+
+![projecteur](medias/symbiose/photos/projecteur.png)
+>Un projecteur qui affiche le jeu sur le mur (voir le croquis)
+
 ![socles](medias/symbiose/photos/socles.png)
+>Les socles qui permettent de soutenir les parties composantes du dispositif
 ## Expérience vécue
 
 ## Ce qui m'a plu

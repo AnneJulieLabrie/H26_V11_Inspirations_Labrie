@@ -27,16 +27,15 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 
 ## Composantes et techniques
 ![composant 1](medias/symbiose/photos/erlenmeyer.png)
->Description
-
+>Un erlrenmeyer avec un capteur de mouvement en dessus, en charge de la partie "eau" du jeu
 ![composant2](medias/symbiose/photos/roulette_temperature.png)
->Description
+>Une roulette qui contrôle la température de la potion du jeu
 
 ![composant 3](medias/symbiose/photos/boutons.png)
->Description
+>Des boutons de 3 couleurs différentes, qui s'affichent à l'écran de façon aléatoire
 
 ![composant 4](medias/symbiose/photos/joystick.png)
->Description
+>Le "joystick" qui contrôle le mélange de la potion du jeu
 
 ## Éléments nécessaires à la mise en exposition
 ![haut-parleurs](medias/symbiose/photos/haut_parleurs.png)

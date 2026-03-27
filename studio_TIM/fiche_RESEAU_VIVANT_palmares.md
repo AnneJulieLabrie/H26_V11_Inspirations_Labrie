@@ -10,6 +10,7 @@
 >Implatation 2D du projet
 ### Ressentis du projet
 Compétition et travail d'équipe, amusant, captivant, problèmes lors de l'essai
+J'ai bien aimé l'esprit d'équipe que le jeu nous fait avoir, puisqu'il faut discuter avec les autres joueurs pour déterminer nos passages et ne pas heurter entre nous et récupérer les clés dans certains niveaux.
 
 ## 2. Arbre en Face
 ### Projet réalisé par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé

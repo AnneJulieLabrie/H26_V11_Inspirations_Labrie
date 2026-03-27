@@ -75,11 +75,11 @@ Autodesk Maya, souvent simplement appelé "Maya", est un logiciel de modélisati
 
 ## Sources
 #### Liens des projets: 
-- https://pythons-5.github.io/Terminal/#/ (Terminal)
-- https://deux-intelligence.github.io/deux-neurones/#/ (Océan Rouge)
-- https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/ (Quand les yeux se croisent)
-- https://o-i-g-n-o-n.github.io/Mission-decollage/#/ (Mission décollage)
-- https://mammouths.github.io/projet/#/ (Arbre en Face)
+- [Terminal](https://pythons-5.github.io/Terminal/#/)
+- [Océan Rouge](https://deux-intelligence.github.io/deux-neurones/#/)
+- [Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
+- [Mission décollage](https://o-i-g-n-o-n.github.io/Mission-decollage/#/)
+- [Arbre en Face](https://mammouths.github.io/projet/#/)
   
 #### Autodesk Maya :
 - https://github.com/Autodesk-Maya-Professional/

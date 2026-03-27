@@ -9,7 +9,7 @@
 ![Schéma](medias/autres/schema_terminal.png)
 >Implatation 2D du projet
 ### Ressentis du projet
-J'ai bien aimé l'esprit d'équipe que le jeu nous fait avoir, puisqu'il faut discuter avec les autres joueurs pour déterminer nos passages et ne pas heurter entre nous et récupérer les clés dans certains niveaux. Par contre, lors des essais que j'ai fait sur deux jours concécutifs, il y avait un niveau en particulier qui ne fonctionnait pas, ce qui coupait l'expérience brusquement et j'ai trouver cela dommage.
+J'ai bien aimé l'esprit d'équipe que le jeu nous fait avoir, puisqu'il faut discuter avec les autres joueurs pour déterminer nos passages et ne pas heurter entre nous et récupérer les clés dans certains niveaux. Par contre, lors des essais que j'ai fait sur deux jours consécutifs, il y avait un niveau en particulier qui ne fonctionnait pas, ce qui coupait l'expérience brusquement et j'ai trouver cela dommage.
 
 ## 2. Arbre en Face
 ### Projet réalisé par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé

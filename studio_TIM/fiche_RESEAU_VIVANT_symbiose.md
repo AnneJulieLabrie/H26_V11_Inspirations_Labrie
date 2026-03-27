@@ -62,3 +62,4 @@ Globalement, j'ai très apprécié l'expérience de ce dispositif, mais un élé
 
 ## Références
 Lien du projet : https://les-chimistes.github.io/symbiose/#/
+Photos prise par Anne-Julie Labrie

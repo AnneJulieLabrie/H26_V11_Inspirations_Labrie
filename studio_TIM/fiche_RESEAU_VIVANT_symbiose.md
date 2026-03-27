@@ -48,7 +48,7 @@ La fonction de ce dispositif est la scénographie.
 >Les hauts-parelurs permettent aux utilisateurs de se plongé dans l'univers du jeu avec les effets sonores.
 
 ![projecteur](medias/symbiose/photos/projecteur.png)
->Un projecteur qui affiche le jeu sur le mur (voir le croquis)
+>Un projecteur qui affiche le jeu sur le mur ([voir le croquis](#mise-en-espace))
 
 ![socles](medias/symbiose/photos/socles.png)
 >Les socles qui permettent de soutenir les parties composantes du dispositif

@@ -27,6 +27,7 @@ La fonction de ce dispositif est la scénographie.
 
 ## Mise en espace
 ![croquis](medias/symbiose/croquis/croquis.png)
+>Croquis du dispositif (vue de face). Il s'agit du premier dispositif à gauche lorsque l'on rentre dans le studio.
 
 ## Composantes et techniques
 ![composant 1](medias/symbiose/photos/erlenmeyer.png)

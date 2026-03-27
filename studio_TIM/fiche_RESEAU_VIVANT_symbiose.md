@@ -38,7 +38,7 @@ La fonction de ce dispositif est la scénographie.
 >Une roulette qui contrôle la température de la potion du jeu
 
 ![composant 3](medias/symbiose/photos/boutons.png)
->Des boutons de 3 couleurs différentes, qui s'affichent à l'écran de façon aléatoire
+>Des boutons de 3 couleurs différentes, qui s'affichent à l'écran de façon aléatoire, le joueur doit cliquer rapidemment sur la bonne couleur
 
 ![composant 4](medias/symbiose/photos/joystick.png)
 >Le "joystick" qui contrôle le mélange de la potion du jeu

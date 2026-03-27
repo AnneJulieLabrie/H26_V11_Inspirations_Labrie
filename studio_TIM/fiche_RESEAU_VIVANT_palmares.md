@@ -73,7 +73,7 @@ Maya, de son nom complet "Autodesk Maya", est un logiciel dont j'ignorais l'exis
 ![interface](medias/autres/maya_interface.png)
 >Interface du logiciel
 
-## Sources
+## Références
 #### Liens des projets: 
 - [Terminal](https://pythons-5.github.io/Terminal/#/)
 - [Océan Rouge](https://deux-intelligence.github.io/deux-neurones/#/)

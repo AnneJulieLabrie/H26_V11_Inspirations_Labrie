@@ -15,7 +15,7 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 >Vue d'ensemble du dispositif
 
 ## Description du dispositif
-Il s'agit d'un jeu, qui se joue en équipe de 2 à 4 personnes. Le but du jeu est de maintenir la potion fictive à une certaine stabilité, le plus longtemps possible. Il y a 4 rôles distincts: l'eau, la température, des boutons de couleurs et le mélange (voir la section [composantes et techniques](#composantes-et-techniques) pour plus de détails).  
+Il s'agit d'un jeu, qui se joue en équipe de 2 à 4 personnes. Le but du jeu est de maintenir la potion fictive à une certaine stabilité, le plus longtemps possible. Il y a 4 rôles distincts: l'eau, la température, des boutons de couleurs et le mélange (voir la section [composantes et techniques](#composantes-et-techniques) pour plus de détails). Après un certain nombre d'erreurs 
 
 ![Texte explicatif](medias/symbiose/photos/texte_explicatif.png)
 >Texte explicatif du dispositif

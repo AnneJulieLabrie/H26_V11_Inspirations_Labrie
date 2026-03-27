@@ -68,6 +68,7 @@ Visuelement beau, mais concept pas clair
 ![nom]()
 >Caption
 
+![interface](medias/autres/maya_interface.png)
 Description
 
 ## Sources

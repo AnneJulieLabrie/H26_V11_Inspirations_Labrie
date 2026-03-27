@@ -20,8 +20,10 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 >Texte explicatif du dispositif
 
 ## Type d'installation
+Intéractive
 
 ## Fonction du dispositif multimédia
+Scénographie
 
 ## Mise en espace
 ![croquis](medias/symbiose/croquis/croquis.png)

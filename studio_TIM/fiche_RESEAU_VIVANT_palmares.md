@@ -64,7 +64,9 @@ Visuelement beau, mais concept pas clair
 2. Réalité mixte (Session 4)
 3. Traitement audiovisuel (Session 4)
 
-### Un logiciel qui est utilisé dans plusieurs projet et que je ne connaissais pas: Maya.
+### Un logiciel qui est utilisé dans plusieurs projet et que je ne connaissais pas
+#### Maya
+Autodesk Maya, souvent simplement appelé "Maya", est un logiciel de modélisation, d'animation, de simulation et de rendu 3D. Utilisé par les professionnels de l'industrie du cinéma, de la télévision, des jeux vidéo et de la publicité, Maya est un outil puissant pour donner vie à des idées créatives.s
 ![logo](medias/autres/maya_logo.png)
 >Logo du logiciel
 

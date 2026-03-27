@@ -57,6 +57,7 @@ recommende 4 jours, joue à minimum 2, chacun se met devant un truc, le jeu comm
 ## Ce qui m'a plu
 
 ## Ce qui m'a moins plu
-consignes pas très visibles
+Globalement, j'ai très apprécié l'expérience de ce dispositif, mais un élément qui aurait ou être amélioré est l'affichage des consignes. En effet, les consignes des événements étaient inscrites dans le haut de l'image, mais la projection elle-même était projetée plutôt haute sur le mur, ce qui rendait les instructions difficile à repérées, surtout en étant concentré sur le jeu.
+
 ## Références
 Lien du projet : https://les-chimistes.github.io/symbiose/#/

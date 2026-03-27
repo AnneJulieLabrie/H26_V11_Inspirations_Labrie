@@ -20,10 +20,10 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 >Texte explicatif du dispositif
 
 ## Type d'installation
-Intéractive
+Il s'agit d'une installation qui est intéractive.
 
 ## Fonction du dispositif multimédia
-Scénographie
+La fonction de ce dispositif est la scénographie.
 
 ## Mise en espace
 ![croquis](medias/symbiose/croquis/croquis.png)

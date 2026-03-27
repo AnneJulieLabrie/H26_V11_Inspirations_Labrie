@@ -64,7 +64,7 @@ Visuelement beau, mais concept pas clair
 2. Réalité mixte (Session 4)
 3. Traitement audiovisuel (Session 4)
 
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
+### Un logiciel qui est utilisé dans plusieurs projet et que je ne connaissais pas: Maya.
 ![logo](medias/autres/maya_logo.png)
 >Logo du logiciel
 
@@ -77,6 +77,7 @@ Visuelement beau, mais concept pas clair
 - https://deux-intelligence.github.io/deux-neurones/#/ (Océan Rouge)
 - https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/ (Quand les yeux se croisent)
 - https://o-i-g-n-o-n.github.io/Mission-decollage/#/ (Mission décollage)
-- https://mammouths.github.io/projet/#/ (Arbre en Face)  
-#### Image de la composante truc truc :
+- https://mammouths.github.io/projet/#/ (Arbre en Face)
+  
+#### Autodesk Maya :
 - https://github.com/Autodesk-Maya-Professional/

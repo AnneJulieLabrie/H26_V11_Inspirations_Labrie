@@ -83,3 +83,4 @@ Autodesk Maya, souvent simplement appelé "Maya", est un logiciel de modélisati
   
 #### Autodesk Maya :
 - https://github.com/Autodesk-Maya-Professional/
+- https://www.clubic.com/telecharger-fiche431319-maya.html

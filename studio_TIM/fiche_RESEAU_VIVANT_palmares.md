@@ -65,11 +65,11 @@ Visuelement beau, mais concept pas clair
 3. Traitement audiovisuel (Session 4)
 
 ### Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
-![nom]()
->Caption
+![logo](medias/autres/maya_logo.png)
+>Logo du logiciel
 
 ![interface](medias/autres/maya_interface.png)
-Description
+>Interface du logiciel
 
 ## Sources
 #### Liens des projets: 

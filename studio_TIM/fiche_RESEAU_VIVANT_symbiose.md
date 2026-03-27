@@ -14,7 +14,8 @@ Il s'agit d'une exposition temporaire intérieure, présentée dans le studio TI
 ![vue d'ensemble](medias/symbiose/photos/vue_ensemble.png)
 >Vue d'ensemble du dispositif
 
-## Description de l'œuvre
+## Description du dispositif
+Il s.agit d'un jeu, qui se joue en équipe de 2 à 4 personnes. Le but du jeu est de maintenir la potion fictive à une certaine stabilité, le plus longtemps possible. Il y a 4 rôles distincts: l'eau, la température, des boutons de couleurs et mélanger (voir la section "composantes et techniques" pour plus de détails)
 4 rôles distincts. le premier eau, 2 température, 3 couleurs, 4 joystick
 ![Texte explicatif](medias/symbiose/photos/texte_explicatif.png)
 >Texte explicatif du dispositif
@@ -32,6 +33,7 @@ La fonction de ce dispositif est la scénographie.
 ## Composantes et techniques
 ![composant 1](medias/symbiose/photos/erlenmeyer.png)
 >Un erlrenmeyer avec un capteur de mouvement en dessus, en charge de la partie "eau" du jeu
+
 ![composant2](medias/symbiose/photos/roulette_temperature.png)
 >Une roulette qui contrôle la température de la potion du jeu
 

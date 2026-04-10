@@ -72,8 +72,8 @@ Il s'agit d'une installation intéractive
 ![lumières](medias/lumieres_plafond.png)
 >Les lumières de la salle qui donne une bonne visibilité
 
-[La boite]()  
-[Les murs]()
+![boite](medias/boite.png)  
+[Les murs](#Les-poussins-disparus) présents dans l'espace de l'exposition permettent de supporter les différents dispositifs et à créé une ambiance plus immersive. Ils permettent également d'afficher les éléments à récupérer (comme les poussins).
 
 ## Expérience vécue
 

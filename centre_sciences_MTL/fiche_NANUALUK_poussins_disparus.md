@@ -55,7 +55,19 @@ Il s'agit d'une installation intéractive
 ![nanuup tuminga](medias/nanuup_tuminga.png)
 >Le badge qui permet d'intéragir avec les dispositifs. Il est appelé un "Nanuup Tuminga".
 
+![intéraction dispositif](medias/interaction_dispositif.png)
+
+![haut-parleur](medias/haut-parleur.png)
+
 ## Éléments nécessaires à la mise en exposition
+
+![choix de la langue](medias/choix_langue.png)
+
+![écran]()
+
+![boite]()
+
+![lumières](medias/lumieres_plafond.png)
 
 ## Expérience vécue
 

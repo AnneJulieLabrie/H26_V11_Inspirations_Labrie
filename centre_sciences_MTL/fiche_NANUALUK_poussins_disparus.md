@@ -33,6 +33,11 @@ Ici, notre mission est de
 
 >D : Affichage lorsque tous les poussins sont trouvés
 
+## Type d'installation
+Il s'agit d'une installation intéractive
+
+## Fonction du dispositif
+
 
 
 

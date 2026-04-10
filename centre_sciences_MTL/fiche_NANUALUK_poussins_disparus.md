@@ -38,7 +38,7 @@ Ici, notre mission est de
 >D : Affichage lorsque tous les poussins sont trouvés
 
 ![poussins](medias/poussins.png)
->Les poussins à retrouver
+>Les poussins à retrouver.
 
 ![locations des poussins](medias/locations_poussins.png)
 >La location de chaque poussin sur la carte
@@ -61,7 +61,7 @@ Il s'agit d'une installation intéractive
 ![haut-parleur](medias/haut-parleur.png)
 >Un haut-parleur qui permet aux visiteurs d'entendre ce que le personnage du dispositif dit.
 
-[L'écran](#Les-poussins-disparus) est nécéssaire pour afficher les animations et les consignes du dispositif
+[L'écran](#Les-poussins-disparus) est nécéssaire pour afficher les animations et les consignes du dispositif.
 
 
 ## Éléments nécessaires à la mise en exposition
@@ -70,9 +70,11 @@ Il s'agit d'une installation intéractive
 >À l'entrée de l'exposition, il est possible de choisir entre l'anglais et le français, ce qui rend l'exposition accessible à un plus grand public.
 
 ![lumières](medias/lumieres_plafond.png)
->Les lumières de la salle qui donne une bonne visibilité
+>Les lumières de la salle qui donne une bonne visibilité.
 
 ![boite](medias/boite.png)  
+>Le dispositif se trouve dans une sorte de boite en bois, qui permet de caché l'électronique, puisque l'exposition est familiale, il ne faut donc pas qu'il y ait des fils éléctroniques qui trainent dans la salle.
+
 [Les murs](#Les-poussins-disparus) présents dans l'espace de l'exposition permettent de supporter les différents dispositifs et à créé une ambiance plus immersive. Ils permettent également d'afficher les éléments à récupérer (comme les poussins).
 
 ## Expérience vécue
@@ -83,4 +85,5 @@ Il s'agit d'une installation intéractive
 
 ## Références
 [Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique) 
+Photos prises par Anne-Julie Labrie
 

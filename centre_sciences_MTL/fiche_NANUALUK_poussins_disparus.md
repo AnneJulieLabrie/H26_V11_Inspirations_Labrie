@@ -23,10 +23,8 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 
 ## Description du dispositif
 
-![explications](medias/explications.png)
+![explications](medias/etapes.png)
 >Explications de l'exposition
->
-Explications blah blah la photo est invisible
 
 ![mise en contexte](medias/mise_en_contexte.png)
 >A et B : Mise en contexte du dispositif

@@ -22,9 +22,12 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 
 ![explications](medias/explications.png)
 >Explications de l'exposition
+Explications blah blah la photo est invisible
 
 ![mise en contexte](medias/mise_en_contexte.png)
->Mise en contexte du dispositif
+>A et B : Mise en contexte du dispositif
+>C : Affichage lorsqu'il manque des poussins
+>D : Affichage lorsque tous les poussins sont trouvés
 
 
 

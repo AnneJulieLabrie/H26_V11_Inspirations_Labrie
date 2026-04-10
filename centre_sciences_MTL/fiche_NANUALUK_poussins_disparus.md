@@ -25,6 +25,7 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 
 ![explications](medias/etapes.png)
 >Explications de l'exposition
+>(photo prise sur le site de l'exposition, voir [références](#références))
 
 ![mise en contexte](medias/mise_en_contexte.png)
 >A et B : Mise en contexte du dispositif

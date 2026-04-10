@@ -29,7 +29,7 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 ![mise en contexte](medias/mise_en_contexte.png)
 >A et B : Mise en contexte du dispositif
 
-Ici, notre mission est de
+Ici, notre mission est de retrouvés les 4 poussins perdus qui sont cachés dans la salle et de les rapporter.
 
 >C : Affichage lorsqu'il manque des poussins
 

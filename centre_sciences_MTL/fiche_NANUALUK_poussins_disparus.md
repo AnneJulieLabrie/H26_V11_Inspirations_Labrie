@@ -70,6 +70,10 @@ Il s'agit d'une installation intéractive
 >À l'entrée de l'exposition, il est possible de choisir entre l'anglais et le français, ce qui rend l'exposition accessible à un plus grand public.
 
 ![lumières](medias/lumieres_plafond.png)
+>Les lumières de la salle qui donne une bonne visibilité
+
+[La boite]()  
+[Les murs]()
 
 ## Expérience vécue
 

@@ -50,7 +50,10 @@ Il s'agit d'une installation intéractive
 
 ## Mise en espace
 
-## Composantes et techniques
+## Composantes et techniques  
+
+![nanuup tuminga](medias/nanuup_tuminga.png)
+>Le badge qui permet d'intéragir avec les dispositifs. Il est appelé un "Nanuup Tuminga".
 
 ## Éléments nécessaires à la mise en exposition
 

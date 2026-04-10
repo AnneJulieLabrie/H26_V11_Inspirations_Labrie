@@ -56,6 +56,7 @@ Il s'agit d'une installation intéractive
 >Le badge qui permet d'intéragir avec les dispositifs. Il est appelé un "Nanuup Tuminga".
 
 ![intéraction dispositif](medias/interaction_dispositif.png)
+>Ce type de rond est présent partout dans l'exposition, il suffit de déposer notre Nanuup Tuminga dessus pour soit intéragir avec un dispositif ou récolter quelque chose dans la salle. Dans le cas de ce dispositif, il est utilisé pour ramasser les poussins qui sont dispersés dans la salle.
 
 ![haut-parleur](medias/haut-parleur.png)
 

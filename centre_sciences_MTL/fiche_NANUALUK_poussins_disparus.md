@@ -6,6 +6,9 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 ![affiche](medias/affiche_expo.png)
 >Affiche de l'exposition
 
+![carte](medias/carte.png)
+>Carte de l'exposition
+
 ![autoportrait](medias/autoportrait.png)
 >Moi, Théana Leurot et Thomas Bozelko devant l'entrée de l'exposition
 
@@ -22,6 +25,7 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 
 ![explications](medias/explications.png)
 >Explications de l'exposition
+>
 Explications blah blah la photo est invisible
 
 ![mise en contexte](medias/mise_en_contexte.png)
@@ -32,6 +36,12 @@ Ici, notre mission est de
 >C : Affichage lorsqu'il manque des poussins
 
 >D : Affichage lorsque tous les poussins sont trouvés
+
+![poussins](medias/poussins.png)
+>Les poussins à retrouver
+
+![locations des poussins](medias/locations_poussins.png)
+>La location de chaque poussin sur la carte
 
 ## Type d'installation
 Il s'agit d'une installation intéractive

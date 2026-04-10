@@ -8,5 +8,5 @@
 
 
 ## Références
-![Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique) 
+[Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique) 
 

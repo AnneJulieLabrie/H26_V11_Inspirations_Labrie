@@ -38,8 +38,17 @@ Il s'agit d'une installation intéractive
 
 ## Fonction du dispositif
 
+## Mise en espace
 
+## Composantes et techniques
 
+## Éléments nécessaires à la mise en exposition
+
+## Expérience vécue
+
+## Ce qui m'a plus
+
+## Ce qui m'a moins plus
 
 ## Références
 [Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique) 

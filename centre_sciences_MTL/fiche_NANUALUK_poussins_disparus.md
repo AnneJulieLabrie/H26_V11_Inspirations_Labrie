@@ -61,7 +61,7 @@ Il s'agit d'une installation intéractive
 ![haut-parleur](medias/haut-parleur.png)
 >Un haut-parleur qui permet aux visiteurs d'entendre ce que le personnage du dispositif dit.
 
-[L'écran]() est nécéssaire pour afficher les animations et les consignes du dispositif
+[L'écran](#Lespoussinsdisparus) est nécéssaire pour afficher les animations et les consignes du dispositif
 
 
 ## Éléments nécessaires à la mise en exposition

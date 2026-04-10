@@ -62,6 +62,7 @@ Il s'agit d'une installation intéractive
 ## Éléments nécessaires à la mise en exposition
 
 ![choix de la langue](medias/choix_langue.png)
+>À l'entrée de l'exposition, il est possible de choisir entre l'anglais et le français, ce qui rend l'exposition accessible à un plus grand public.
 
 ![écran]()
 

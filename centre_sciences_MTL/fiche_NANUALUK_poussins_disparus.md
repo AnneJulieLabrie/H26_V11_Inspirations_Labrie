@@ -25,7 +25,7 @@ Il s'agit d'une exposition permanante, en intérieure, présentée au Centres de
 
 ![explications](medias/etapes.png)
 >Explications de l'exposition
->(photo prise sur le site de l'exposition, voir [références](#références))
+>(photo prise sur le site de l'exposition, voir les [références](#références))
 
 ![mise en contexte](medias/mise_en_contexte.png)
 >A et B : Mise en contexte du dispositif
@@ -83,6 +83,6 @@ Il s'agit d'une installation intéractive
 ## Ce qui m'a moins plus
 
 ## Références
-[Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique) 
+[Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)  
 Photos prises par Anne-Julie Labrie
 

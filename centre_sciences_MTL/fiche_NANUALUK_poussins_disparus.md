@@ -1,7 +1,7 @@
 # Nanualuk – Expédition Nordique
 
 ## Informations générales sur l'exposition
-Il s'agit d'une exposition permanante, en intérieure, présentée au Centres des sciences de Montréal et que j'ai visitée le 1er avril 2026.  
+Il s'agit d'une exposition permanente, en intérieure, présentée au Centres des sciences de Montréal et que j'ai visitée le 1er avril 2026.  
 
 ![affiche](medias/affiche_expo.png)
 >Affiche de l'exposition
@@ -45,6 +45,7 @@ Ici, notre mission est de retrouvés les 4 poussins perdus qui sont cachés dans
 Il s'agit d'une installation intéractive
 
 ## Fonction du dispositif
+Ce dispositif à pour but le support pédagogique, puisqu'il transmet des connaisances et apprentissages sur l'oiseau présent dans ce dispositif, c'est à dire un Tétras à queue fine.
 
 ## Mise en espace
 
@@ -76,12 +77,15 @@ Il s'agit d'une installation intéractive
 [Les murs](#Les-poussins-disparus) présents dans l'espace de l'exposition permettent de supporter les différents dispositifs et à créé une ambiance plus immersive. Ils permettent également d'afficher les éléments à récupérer (comme les poussins).
 
 ## Expérience vécue
+aucuns fils dans le chemin
 
 ## Ce qui m'a plus
+accessibilité (hauteur des écrans, audio claire, choix de langue)
 
 ## Ce qui m'a moins plus
 
 ## Références
 [Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)  
+[Oiseau](https://en.wikipedia.org/wiki/Sharp-tailed_grouse)  
 Photos prises par Anne-Julie Labrie
 

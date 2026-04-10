@@ -83,6 +83,7 @@ aucuns fils dans le chemin
 J'ai apprécié l'accessibilité de l'exposition. Les écrans et éléments à trouver se trouve à un hauteur qui permet même aux enfant d'intéragir avec, il est possible de choisir entre l'anglais et le français et les acteurs qui font la voix des personnages parlent lentement et clairement, ce qui rend la compréhension facile si le visiteur n'arrive pas à lire.
 
 ## Ce qui m'a moins plus
+Parfois, les dialogues des personnages étaient très long et il n'était pas possible de passer à la prochaine étape alors que le texte avait été lu, il aurait donc été agréable de pouvoir  passé dès que tout le texte s'est affiché.
 
 ## Références
 [Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)  

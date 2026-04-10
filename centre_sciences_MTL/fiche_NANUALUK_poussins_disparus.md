@@ -58,16 +58,14 @@ Il s'agit d'une installation intéractive
 ![intéraction dispositif](medias/interaction_dispositif.png)
 >Ce type de rond est présent partout dans l'exposition, il suffit de déposer notre Nanuup Tuminga dessus pour soit intéragir avec un dispositif ou récolter quelque chose dans la salle. Dans le cas de ce dispositif, il est utilisé pour ramasser les poussins qui sont dispersés dans la salle.
 
+[L'écran]() est nécéssaire pour afficher les animations et les consignes du dispositif
+
 ![haut-parleur](medias/haut-parleur.png)
 
 ## Éléments nécessaires à la mise en exposition
 
 ![choix de la langue](medias/choix_langue.png)
 >À l'entrée de l'exposition, il est possible de choisir entre l'anglais et le français, ce qui rend l'exposition accessible à un plus grand public.
-
-![écran]()
-
-![boite]()
 
 ![lumières](medias/lumieres_plafond.png)
 

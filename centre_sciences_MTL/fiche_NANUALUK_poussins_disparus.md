@@ -13,7 +13,7 @@ Il s'agit d'une exposition permanente, en intérieure, présentée au Centres de
 >Moi, Théana Leurot et Thomas Bozelko devant l'entrée de l'exposition
 
 ## Les poussins disparus
-### Nom de la firme, année de réalisation  
+### GSM Studios, 2025
 
 ![vue d'ensemble](medias/vue_ensemble.png)
 >Vue d'ensemble du dispositif

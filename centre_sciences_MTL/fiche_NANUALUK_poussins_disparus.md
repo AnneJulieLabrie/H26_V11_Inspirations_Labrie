@@ -89,7 +89,7 @@ J'ai apprécié l'accessibilité de l'exposition. Les écrans et éléments à t
 Parfois, les dialogues des personnages étaient très long et il n'était pas possible de passer à la prochaine étape alors que le texte avait été lu, il aurait donc été agréable de pouvoir  passé dès que tout le texte s'est affiché.
 
 ## Références
-[Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)  
-[Oiseau](https://en.wikipedia.org/wiki/Sharp-tailed_grouse)  
-Photos prises par Anne-Julie Labrie
+- [Site de l'exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)  
+- [Oiseau](https://en.wikipedia.org/wiki/Sharp-tailed_grouse)  
+- Photos prises par Anne-Julie Labrie
 

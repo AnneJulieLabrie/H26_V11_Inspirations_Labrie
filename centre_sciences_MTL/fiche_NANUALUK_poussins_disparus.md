@@ -49,8 +49,9 @@ Ce dispositif à pour but le support pédagogique, puisqu'il transmet des connai
 
 ## Mise en espace
 
-![croquis]()
+![croquis](medias/croquis.png)
 >Croquis du dispositif dans l'espace
+>test
 
 ## Composantes et techniques  
 

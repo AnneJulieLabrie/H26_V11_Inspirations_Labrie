@@ -51,9 +51,6 @@ Ce dispositif à pour but le support pédagogique, puisqu'il transmet des connai
 
 ![croquis](medias/croquis.png)
 >Croquis du dispositif dans l'espace
->
->test
-
 ## Composantes et techniques  
 
 ![nanuup tuminga](medias/nanuup_tuminga.png)

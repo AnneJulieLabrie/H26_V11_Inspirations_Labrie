@@ -80,7 +80,7 @@ Ce dispositif à pour but le support pédagogique, puisqu'il transmet des connai
 [Les murs](#Les-poussins-disparus) présents dans l'espace de l'exposition permettent de supporter les différents dispositifs et à créé une ambiance plus immersive. Ils permettent également d'afficher les éléments à récupérer (comme les poussins).
 
 ## Expérience vécue
-aucuns fils dans le chemin
+Le dispositif des poussins perdus est le premier dispositif de l'exposition, qui se trouve directement en face de l'entrée. Le passage du visiteur dans l'espace est simple et efficace, puisqu'il n'y a aucun fils par terre, les murs permettent une expérience immersive efficace, en nous plongeant dans le village que l'exposition nous présente.
 
 ## Ce qui m'a plus
 J'ai apprécié l'accessibilité de l'exposition. Les écrans et éléments à trouver se trouve à un hauteur qui permet même aux enfant d'intéragir avec, il est possible de choisir entre l'anglais et le français et les acteurs qui font la voix des personnages parlent lentement et clairement, ce qui rend la compréhension facile si le visiteur n'arrive pas à lire.

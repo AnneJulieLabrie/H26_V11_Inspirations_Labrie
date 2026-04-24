@@ -1,9 +1,8 @@
 # Compte-Rendu de conférence
-Conférence présentée par MArtin Boucher, sur deux dispositifs du Musée de l'ingéniosité.
+Conférence présentée par MArtin Boucher, sur deux dispositifs du musée de l'ingéniosité.
 
 ## Présentation de Martin Boucher
-
-
+Martin Boucher est un technicien multimédia qui travaille au musée de l'ingéniosité. Il a comme tâches principales de créer des dispositifs, ainsi que s'assurer que certains dispositifs reste fonctionnel avec le temps qui passe.
 
 ## Garage de Joseph-Armand Bombardier
 

@@ -7,8 +7,11 @@ Conférence présentée par MArtin Boucher, sur deux dispositifs du Musée de l'
 
 ## Garage de Joseph-Armand Bombardier
 
-### But du dispositif
+### But du spectacle
 Ce spectacle de sons et lumières visent à présenter l'ingéniosité de Bombardier en expliquant son processus de création de véhicules permettant de rouler sur la neige. 
+
+### Présentation du spectacle
+Le spectacle se trouve dans une salle avec trois endroits de projections. À chacun de ses endroits, on présente une partie du processus  de Bombardier, en montrant ses plans, des étagères remplies de matériel de mécanique, ainsi que le véhicule.
 
 ## Bogie du métro
 

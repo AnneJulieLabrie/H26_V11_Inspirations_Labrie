@@ -1,5 +1,5 @@
 # Compte-Rendu de conférence
-Conférence présentée par MArtin Boucher, sur deux dispositifs du Musée de l'ingéniosité
+Conférence présentée par MArtin Boucher, sur deux dispositifs du Musée de l'ingéniosité.
 
 ## Présentation de Martin Boucher
 
@@ -8,7 +8,7 @@ Conférence présentée par MArtin Boucher, sur deux dispositifs du Musée de l'
 ## Garage de Joseph-Armand Bombardier
 
 ### But du dispositif
-Ce spectacle de sons et lumières visent à présenter l'ingéniosité de Bombardier en explicant sont processus de création de véhicules permettant de rouler sur la neige. 
+Ce spectacle de sons et lumières visent à présenter l'ingéniosité de Bombardier en expliquant son processus de création de véhicules permettant de rouler sur la neige. 
 
 ## Bogie du métro
 

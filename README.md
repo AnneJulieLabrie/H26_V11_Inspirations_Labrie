@@ -1,2 +1,3 @@
 # H26_V11_Inspirations_Labrie
-Inspirations
+Banque d'inspiration
+

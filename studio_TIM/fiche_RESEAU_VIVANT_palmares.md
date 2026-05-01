@@ -45,7 +45,7 @@ J'ai beaucoup aimé la sensation en découvrant ce dispositif. Le jeu est très 
 ![Schéma](medias/autres/schema_ocean.png)
 >Schéma 2D du projet
 ### Ressentis du projet
-Le concept de ce dispositif est très intéressant et l'écologie est évidemment un sujet très important, accompagné de visuels magnifiques, ce qui rend le dispositif captivant. Malheureusement, le mode de jeu était extrêmement redondant, ce qui ne donnait pas envie de jouer plus d'un seule fois, ce qui est dommage.
+Le concept de ce dispositif est très intéressant et l'écologie est évidemment un sujet très important, accompagné de visuels magnifiques, ce qui rend le dispositif captivant. Malheureusement, le mode de jeu était extrêmement redondant, ce qui ne donnait pas envie de jouer plus qu'une seule fois, ce qui est dommage.
 
 ## 5. Quand les yeux se croisent
 

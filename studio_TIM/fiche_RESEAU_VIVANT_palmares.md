@@ -20,7 +20,7 @@ J'ai bien aimé l'esprit d'équipe que le jeu nous fait avoir, puisqu'il faut di
 ![Schéma](medias/autres/schema_arbre.jpg)
 >Schéma 2D du projet
 ### Ressentis du projet
-Captivant, amusant
+Le projet était très intéressant et captivant à expérimenter. Les graphiques étaient très beau et les sons qui étaient produits losrqu'un utilisateur intéragissait avec le dispositif étaient très rigolo, ce qui donnait envie rester devant le dispositif et d'intéragir avec, pour continuer à ressentir ce court plaisir lorsque l'audio joue.
 
 ## 3. Mission Décolage
 

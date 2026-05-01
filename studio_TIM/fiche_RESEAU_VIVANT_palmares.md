@@ -32,7 +32,7 @@ Le projet était très intéressant et captivant à expérimenter. Les graphique
 ![Schéma](medias/autres/schema_decolage.png)
 >Implatation 2D du projet
 ### Ressentis du projet
-Stress (bon stress), travail d'équipe, focus
+J'ai beaucoup aimé la sensation en découvrant ce dispositif. Le jeu est très complexe et cela plonge le visiteur dans un bon stress, puisqu'il souhaite réussir à gagner le jeu. De plus, j'ai aimé le travail d'équipe nécéssaire pour accomplir la tâche, cela crée une ambiance de compétition et de collaboration qui est agréable à vivre accompagné d'ami(s).
 
 ## 4. Océan Rouge
 

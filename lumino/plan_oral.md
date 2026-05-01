@@ -21,8 +21,10 @@ L'oeuvre est située dans le centre de la place des arts et est facilement acces
 
 L'oeuvre est composée d'une grande structure, ainsi que de deux piliers qui sont des hauts-parleurs et des projecteurs. Ils sont placés stratégiquement, afin que les visteurs ne bloquent pas les projections de lumière et afin que l'audio soit bien immersive de tous les côtés.
 
+L'oeuvre est placée sur un socle qui la supporte et la soulève légèrement.
+
 ### Expérience vécue
-Afin de bien apprécier l'œuvre, il faut tourner autour de la structure, afin d'observer les projections de lumières sous différents angles et écouter l'audio sous différentes perspectives.
+Afin de bien apprécier l'œuvre, il faut tourner autour de la structure, afin d'observer les projections de lumières sous différents angles et écouter l'audio sous différentes perspectives. Nous sommes également invités à aller s'installer dans le centre du cercle de la structure afin d'expériencer les projections et l'audio à son plein potentiel.
 
 ### Appréciation critique et justifications
 

@@ -28,6 +28,12 @@ Afin de bien apprécier l'œuvre, il faut tourner autour de la structure, afin d
 
 ### Appréciation critique et justifications
 
+Appréciation: 
+L'audio est très intéressant et aide beaucoup à l'immersion de l'univers fantastique qui est créé. Les changements de couleurs sont très beaux, les motifs captivants et hypnotisants, ils donnent envie d'observer l'œuvre pendant des heures. Un autre point positif est que la façon dont sont disposés les projecteurs permettent aux visiteurs d'observer l'œuvre, sans déranger les projecteurs, qui sont placés assez haut pour ne pas être cachés.
+
+Critique:
+Nous sommes également invités à se rendre dans le milieu de la structure et de s'y asseoir pour une expérience encore plus immersive. Malheureusement, j'ai trouvé cela plutôt décevant, les visuels sont plus impressionnants du point de vue extérieur qu'intérieur. De l'intérieur, il s'agit simplement d'une bande de lumière.
+
 ### Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session
 
 

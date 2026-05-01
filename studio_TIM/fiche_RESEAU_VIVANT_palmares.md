@@ -55,8 +55,9 @@ Le concept de ce dispostif est très intéressant et l'écologie est évidemment
 
 ![Schéma](medias/autres/schema_yeux.jpg)
 >Implatation 2D du projet
+
 ### Ressentis du projet
-Visuelement beau, mais concept pas clair
+Visuelement, ce dispositif est mon préférée. Les télés, les plantes et les lampes s'accordent très bien et attirent l'attention. Par contre, le concept du dispositif est très flou, je n'ai pas compris l'idée de se voir à travers une télé, ce qui est un peu décevant.
 
 ## Reflexion du cheminement TIM
 ### 3 Cours incontournables pour la création de ce genre de projet

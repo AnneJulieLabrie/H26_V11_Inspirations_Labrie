@@ -7,7 +7,7 @@
 Stargate est une oeuvre réalisée en 2025 par CHALK RIVER LABS et qui est présentée à l'exposition Lumino, à la place des arts de Montréal.
 
 ### Sujet divisé
-
+Je présenterai le lieu de l'exposition, l'oeuvre en détail, l'expérience vécue, je donnerai mon appréciation globale, ferai des liens avec d'autres oeuvres et concluerai en présentant un élément inspirant que je retiens parmi toutes les oeuvres, dispositfs et expériences de la session.
 
 ## Développement
 

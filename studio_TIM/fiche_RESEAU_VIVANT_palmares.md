@@ -44,7 +44,7 @@ Stress (bon stress), travail d'équipe, focus
 ![Schéma](medias/autres/schema_ocean.png)
 >Schéma 2D du projet
 ### Ressentis du projet
-Concept intéressant, visuels très beaux, mais redondant
+Le concept de ce dispostif est très intéressant et l'écologie est évidemment un sujet très important, accompagné de visuels magnifiques, se qui rend le dispositif captivant. Malheureusement, le mode de jeu était extrêmement redondnat, ce qui ne donnait pas envie de jouer plus d'un seule fois, ce qui est dommage.
 
 ## 5. Quand les yeux se croisent
 

@@ -58,7 +58,7 @@ Le concept de ce dispositif est très intéressant et l'écologie est évidemmen
 >Implantation 2D du projet
 
 ### Ressentis du projet
-Visuellement, ce dispositif est mon préféré. Les télés, les plantes et les lampes s'accordent très bien et attirent l'attention. Cependant, le concept du dispositif est très flou, je n'ai pas compris l'idée de se voir à travers une télé, ce qui est un peu décevant.
+Visuellement, ce dispositif est mon préféré. Les télévisions, les plantes et les lampes s'accordent très bien et attirent l'attention. Cependant, le concept du dispositif est très flou, je n'ai pas compris l'idée de se voir à travers une télé, ce qui est un peu décevant.
 
 ## Reflexion du cheminement TIM
 ### 3 Cours incontournables pour la création de ce genre de projet

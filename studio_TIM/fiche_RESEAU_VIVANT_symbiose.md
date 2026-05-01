@@ -55,7 +55,8 @@ La fonction de ce dispositif est la scénographie.
 >Les socles qui permettent de soutenir les parties composantes du dispositif
 
 ## Expérience vécue
-Le son du jeu et les graphiques sont semis réalistes, ce qui plonge le visteur dans une ambiance comique.
+Le son du jeu et les graphiques sont semis réalistes, ce qui plonge le visteur dans une ambiance comique. 
+> [Détails sur le jeu](#description-du-dispositif)
 
 ## Ce qui m'a plu
 J'ai beaucoup aimé le fait que ce dispositif n'ait pas de "fin". Puisqu'il s'agissait simplement d'un chronomètre, cela donnait envie de rejouer après avoir terminé, pour battre son record personnel.

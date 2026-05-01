@@ -43,4 +43,4 @@ J'ai trouvé que l'oeuvre me faisait un peu penser à une des premières oeuvres
 Stargate est une oeuvre réalisée par CHALK RIVER LABS, présentée à l'exposition Lumino à la place des arts de Montréal. C'est une oeuvre immersive, qui nous apporte dans un univers spatial fantastique en combinant son et lumières. L'immersion est très intéressante, mais le milieu de l'oeuvre est, malheureusement, très décevant.
 
 ### Ouverture
-Un élément inspirant que je retiens parmi toutes les oeuvres, dispositifs et expériences de la session est
+Un élément inspirant que je retiens parmi toutes les oeuvres, dispositifs et expériences de la session est que le public cible est un élément très important à prendre en compte. Par exemple, l'exposition à la galerie de l'Université de Montréal étaient destinée pour un public mature, donc le matériel n'était pas caché, il y avait des fils un peu partout, mais cela faisait partie de l'esthétique. Cependant, au centre des sciences de Montréal, il n'est pas possible de faire ça, puisque des enfants visitent l'exposition et des fils qui trainent partout représente un danger pour eux.

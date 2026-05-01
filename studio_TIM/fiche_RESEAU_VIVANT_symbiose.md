@@ -53,9 +53,12 @@ La fonction de ce dispositif est la scénographie.
 
 ![socles](medias/symbiose/photos/socles.png)
 >Les socles qui permettent de soutenir les parties composantes du dispositif
+
 ## Expérience vécue
-recommende 4 jours, joue à minimum 2, chacun se met devant un truc, le jeu commence, qte à accomplir
+Le son du jeu et les graphiques sont semis réalistes, ce qui plonge le visteur dans une ambiance comique.
+
 ## Ce qui m'a plu
+J'ai beaucoup aimé le fait que ce dispositif n'ait pas de "fin". Puisqu'il s'agissait simplement d'un chronomètre, cela donnait envie de rejouer après avoir terminé, pour battre son record personnel.
 
 ## Ce qui m'a moins plu
 Globalement, j'ai très apprécié l'expérience de ce dispositif, mais un élément qui aurait pu être amélioré est l'affichage des consignes. En effet, les consignes des événements étaient inscrites dans le haut de l'image, mais la projection elle-même était projetée plutôt haute sur le mur, ce qui rendait les instructions difficile à repérées, surtout en étant concentré sur le jeu.

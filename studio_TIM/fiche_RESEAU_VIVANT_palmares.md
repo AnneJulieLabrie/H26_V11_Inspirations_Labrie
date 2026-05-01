@@ -45,7 +45,7 @@ J'ai beaucoup aimé la sensation en découvrant ce dispositif. Le jeu est très 
 ![Schéma](medias/autres/schema_ocean.png)
 >Schéma 2D du projet
 ### Ressentis du projet
-Le concept de ce dispostif est très intéressant et l'écologie est évidemment un sujet très important, accompagné de visuels magnifiques, se qui rend le dispositif captivant. Malheureusement, le mode de jeu était extrêmement redondnat, ce qui ne donnait pas envie de jouer plus d'un seule fois, ce qui est dommage.
+Le concept de ce dispositif est très intéressant et l'écologie est évidemment un sujet très important, accompagné de visuels magnifiques, ce qui rend le dispositif captivant. Malheureusement, le mode de jeu était extrêmement redondant, ce qui ne donnait pas envie de jouer plus d'un seule fois, ce qui est dommage.
 
 ## 5. Quand les yeux se croisent
 
@@ -58,7 +58,7 @@ Le concept de ce dispostif est très intéressant et l'écologie est évidemment
 >Implantation 2D du projet
 
 ### Ressentis du projet
-Visuelement, ce dispositif est mon préférée. Les télés, les plantes et les lampes s'accordent très bien et attirent l'attention. Par contre, le concept du dispositif est très flou, je n'ai pas compris l'idée de se voir à travers une télé, ce qui est un peu décevant.
+Visuellement, ce dispositif est mon préféré. Les télés, les plantes et les lampes s'accordent très bien et attirent l'attention. Cependant, le concept du dispositif est très flou, je n'ai pas compris l'idée de se voir à travers une télé, ce qui est un peu décevant.
 
 ## Reflexion du cheminement TIM
 ### 3 Cours incontournables pour la création de ce genre de projet
@@ -67,7 +67,7 @@ Visuelement, ce dispositif est mon préférée. Les télés, les plantes et les 
 3. Traitement audiovisuel (Session 4)
 
 ### Un logiciel qui est utilisé dans plusieurs projet et que je ne connaissais pas
-Maya, de son nom complet "Autodesk Maya", est un logiciel dont j'ignorais l'existence et qui ressemble beaucoup à Blender, mais qui n'est pas grauit. Il sert à modeliser, à animer, à créer des simulations et à faire du rendu 3D. Il est utilisé dans l'industrie du cinéma, de la télévision, des jeux vidéo et de la publicité et dans l'exposition "Réseau Vivant" 4 projets sur 6 l'utilisent.
+Maya, de son nom complet "Autodesk Maya", est un logiciel dont j'ignorais l'existence et qui ressemble beaucoup à Blender, mais qui n'est pas gratuit. Il sert à modéliser, à animer, à créer des simulations et à faire du rendu 3D. Il est utilisé dans l'industrie du cinéma, de la télévision, des jeux vidéo et de la publicité et dans l'exposition "Réseau Vivant" 4 projets sur 6 l'utilisent.
 
 ![logo](medias/autres/maya_logo.png)
 >Logo du logiciel

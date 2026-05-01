@@ -45,7 +45,7 @@ La fonction de ce dispositif est la scénographie.
 
 ## Éléments nécessaires à la mise en exposition
 ![haut-parleurs](medias/symbiose/photos/haut_parleurs.png)
->Les hauts-parelurs permettent aux utilisateurs de se plongé dans l'univers du jeu avec les effets sonores.
+>Les hauts-parleurs permettent aux utilisateurs de se plonger dans l'univers du jeu avec les effets sonores.
 
 ![projecteur](medias/symbiose/photos/projecteur.png)
 >Un projecteur qui affiche le jeu sur le mur ([voir le croquis](#mise-en-espace))  
@@ -61,7 +61,7 @@ Le son du jeu et les graphiques sont semis réalistes, ce qui plonge le visteur 
 J'ai beaucoup aimé le fait que ce dispositif n'ait pas de "fin". Puisqu'il s'agissait simplement d'un chronomètre, cela donnait envie de rejouer après avoir terminé, pour battre son record personnel.
 
 ## Ce qui m'a moins plu
-Globalement, j'ai très apprécié l'expérience de ce dispositif, mais un élément qui aurait pu être amélioré est l'affichage des consignes. En effet, les consignes des événements étaient inscrites dans le haut de l'image, mais la projection elle-même était projetée plutôt haute sur le mur, ce qui rendait les instructions difficile à repérées, surtout en étant concentré sur le jeu.
+Globalement, j'ai très apprécié l'expérience de ce dispositif, mais un élément qui aurait pu être amélioré est l'affichage des consignes. En effet, les consignes des événements étaient inscrites dans le haut de l'image, mais la projection elle-même était projetée plutôt haute sur le mur, ce qui rendait les instructions difficiles à repérées, surtout en étant concentré sur le jeu.
 
 ## Références
 - Lien du projet : [Terminal](https://les-chimistes.github.io/symbiose/#/)
